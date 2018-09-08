@@ -17,4 +17,7 @@ autolink = false
 
 I would really like to hear from you, so if you feel like it, just [drop me a line!](mailto:skeeboo@skeeboomusic.com)
 
-If you liked what you hear, please consider supporting me by downloading some tracks on [bandcamp](https://skeeboo.bandcamp.com) or your preferred music store. Thank you!
+If you like the idea of keeping in touch and preview my next tracks, you may leave your email address below
+{{<mail_form>}}
+
+If you like my music, please consider supporting me by downloading some tracks on [bandcamp](https://skeeboo.bandcamp.com) or on your preferred music store. Thank you!
