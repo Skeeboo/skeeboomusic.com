@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "http://www.skeeboomusic.com/"
+baseurl = "https://www.skeeboomusic.com/"
 
 # Title of your site
 title = "Skeeboo"
@@ -66,7 +66,7 @@ enableGitInfo = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "skeebooproduction@schibuola.net"
+  email = "skeeboo@skeeboomusic.com"
   address = ""
   office_hours = ""
   phone = ""
@@ -227,7 +227,7 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:skeebooproduction@schibuola.net"
+    link = "mailto:skeeboo@skeeboomusic.com"
 
   [[params.social]]
     icon = "bandcamp"
