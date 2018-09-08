@@ -21,3 +21,5 @@ If you like the idea of keeping in touch and preview my next tracks, you may lea
 {{<mail_form>}}
 
 If you like my music, please consider supporting me by downloading some tracks on [bandcamp](https://skeeboo.bandcamp.com) or on your preferred music store. Thank you!
+
+{{<spotify_follow>}}

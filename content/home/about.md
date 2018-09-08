@@ -40,3 +40,5 @@ I am an italian amateur composer and arranger.
 My current project is "Moods and Modes": a collection of short tracks exploring different scales and modes. Have a look at the [music section](#music) of the website to find out more!
 
 All the tracks are heavily influenced by the inspiring improvisation method of [Forrest Kinney](https://forrestkinney.com)
+
+{{<spotify_follow>}}
