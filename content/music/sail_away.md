@@ -34,5 +34,6 @@ The second track on the "Moods and modes" project explores the minor pentatonic 
 
 {{<itunes link="https://itunes.apple.com/us/album/sail-away-single/">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07GVPNJBZ/?tag=distrokid06-20">}}
+{{<spotify link="https://open.spotify.com/track/4AVJv7O9FNe6i7T7ZdiPxR?si=jF_Hm_IoRIW-X58IDdcPFg">}}
 {{<deezer link="https://www.deezer.com/album/71654472">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sail-away">}}
