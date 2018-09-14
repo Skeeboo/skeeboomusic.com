@@ -26,4 +26,6 @@ overlay_img = "hands3.png"
 +++
 
 
-{{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
+{{<figure src="/img/covers/SailAway.jpg" width="320" link="http://skeeboo.bandcamp.com/track/sail-away" target="_blank">}}
+
+{{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
