@@ -30,9 +30,10 @@ caption = ""
 
 "Moods and modes" third track features an hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
 
-<!-- Aggiornare quando pubblicato su bandcamp
 
-{{<bandcamp title="Geronimo" track="" link="http://skeeboo.bandcamp.com/track/geronimo">}}
+{{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
+
+<!-- Aggiornare quando pubblicato sugli stores
 
 {{<itunes link="https://itunes.apple.com/us/album/sail-away-single/">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07GVPNJBZ/?tag=distrokid06-20">}}

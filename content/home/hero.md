@@ -28,8 +28,4 @@ overlay_img = "hands3.png"
 
 {{<figure src="/img/covers/Geronimo.jpg" width="320" link="http://skeeboo.bandcamp.com/track/geronimo" target="_blank">}}
 
-<!-- Abilitare dopo pubblicazione su bandcamp
-
-{{<bandcamp_small title="Geronimo" track="" link="http://skeeboo.bandcamp.com/track/geronimo">}}
-
--->
+{{<bandcamp_small title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
