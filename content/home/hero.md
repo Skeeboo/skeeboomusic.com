@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2017-10-15T00:00:00
+date = 2018-09-15T00:00:00
 
 title = "New"
 
@@ -26,6 +26,10 @@ overlay_img = "hands3.png"
 +++
 
 
-{{<figure src="/img/covers/SailAway.jpg" width="320" link="http://skeeboo.bandcamp.com/track/sail-away" target="_blank">}}
+{{<figure src="/img/covers/Geronimo.jpg" width="320" link="http://skeeboo.bandcamp.com/track/geronimo" target="_blank">}}
 
-{{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
+<!-- Abilitare dopo pubblicazione su bandcamp
+
+{{<bandcamp_small title="Geronimo" track="" link="http://skeeboo.bandcamp.com/track/geronimo">}}
+
+-->
