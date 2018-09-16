@@ -6,7 +6,7 @@ date = 2018-09-15T00:00:00
 title = "Geronimo"
 
 # Project summary to display on homepage.
-summary = "An hammond organ makes the blues scale rock"
+summary = "A hammond organ makes the blues scale rock"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "covers/Geronimo.jpg"
@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-"Moods and modes" third track features an hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
+"Moods and modes" third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
 
 
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
