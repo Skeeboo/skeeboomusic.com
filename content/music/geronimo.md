@@ -33,6 +33,7 @@ caption = ""
 
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
 
+{{<itunes link="https://itunes.apple.com/us/album/geronimo-single/1436411799?app=apple%20music">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07HDFD78W">}}
-{{<spotify link="https://open.spotify.com/track/3Iqq1ETVvcaN6pfvfGQJsw?si=cE3PEIhLQa6D6CSf6f3-iA">}}
+{{<spotify link="https://open.spotify.com/track/3Iqq1ETVvcaN6pfvfGQJsw">}}
 {{<deezer link="https://www.deezer.com/album/73286492">}}
