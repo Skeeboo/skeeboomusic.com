@@ -32,3 +32,5 @@ caption = ""
 
 
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
+<br />
+{{<deezer link="https://www.deezer.com/album/73286492">}}
