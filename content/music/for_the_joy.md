@@ -32,6 +32,9 @@ A couple of jumpy violins set the mood of this major pentatonic tune.
 
 {{<bandcamp title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
 
+Available from:
+
+{{<bandcamp_link link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
 {{<itunes link="https://itunes.apple.com/us/album/for-the-joy-single/1435429128?uo=4&app=itunes&at=1001lry3&ct=dashboard">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07H45P5VY/?tag=distrokid06-20">}}
 {{<spotify link="https://open.spotify.com/track/1NL1EsDbLdzSVtKArK0ghF?si=P437pI_GQxCNUIMPezIP8w">}}
