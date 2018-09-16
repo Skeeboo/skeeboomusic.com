@@ -44,6 +44,9 @@ summary = "The true 'natural' scales?"
 #album = "1"
 #image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
 #caption = "1950s"
+
+# {{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
+
 +++
 
 Pentatonic scales (musical scales with five notes per octave) are among the oldest used by men. They were developed indipendently by many ancient civilizations, and are still used all over the world!
@@ -52,10 +55,10 @@ So it seems natural to begin an exploration of different ["Moods and Modes"](/#m
 
 The major pentatonic may be used to express happiness and a cheerful attitude like in the track [For the Joy](/music/for_the_joy).
 
-{{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
+{{<spotify_player uri="spotify:track:1NL1EsDbLdzSVtKArK0ghF">}}
 
 The minor pentatonic lends itself to more serious (and diverse) moods. I tried to explore its thoughtful and meditative character in [Sail Away](/music/sail_away).
 
-{{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
+{{<spotify_player uri="spotify:track:4AVJv7O9FNe6i7T7ZdiPxR">}}
 
 Enjoy! And [tell me what you think about it](/#contact). 
