@@ -17,9 +17,9 @@ autolink = false
 
 Thanks for stopping by! I would really love to hear from you, so if you feel like it, [drop me a line!](mailto:skeeboo@skeeboomusic.com)
 
-To keep in touch and preview my next tracks before publication, you can leave your email address in the form below:
+Subscribe to the newsletter to keep in touch and preview future tracks before publication:
 {{<mail_form>}}
 
-If you like my music, please consider supporting me by downloading some tracks on [bandcamp](https://skeeboo.bandcamp.com) or on your preferred music store. Thank you!
+If you like my music, please consider supporting me by downloading some tracks on [bandcamp](https://skeeboo.bandcamp.com) (or on your preferred music store). Thank you!
 
 {{<spotify_follow>}}

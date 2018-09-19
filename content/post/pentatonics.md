@@ -45,8 +45,6 @@ summary = "The true 'natural' scales?"
 #image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
 #caption = "1950s"
 
-# {{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
-
 +++
 
 Pentatonic scales (musical scales with five notes per octave) are among the oldest used by men. They were developed indipendently by many ancient civilizations, and are still used all over the world!

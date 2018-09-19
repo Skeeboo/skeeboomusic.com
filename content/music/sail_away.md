@@ -32,7 +32,7 @@ The second track on the "Moods and modes" project explores the minor pentatonic 
 
 {{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
 
-Available from:
+## Available from:
 
 {{<bandcamp_link link="http://skeeboo.bandcamp.com/track/sail-away">}}
 {{<itunes link="https://itunes.apple.com/us/album/sail-away-single/">}}

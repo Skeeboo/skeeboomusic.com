@@ -15,13 +15,13 @@ weight = 50
 
 +++
 
-All my music and playlists are also hosted on Spotify:
+All my recent music is available for streaming on Spotify: follow me to keep updated!
 {{<spotify_follow>}}
 
-All "Moods and modes" tracks in a single playlist:
+Save the playlist "Moods and modes" to stream all the project tracks in a single place:
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-"Joy Jumpers" is a soundtrack for happy and carefree moments:
+"Joy Jumpers" is a soundtrack for happy and carefree moments featuring "For the Joy", have a listen!
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4OBUhFsnAbQ8RPUD9OJlji">}}
