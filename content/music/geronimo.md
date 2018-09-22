@@ -40,3 +40,4 @@ caption = ""
 {{<amazon link="http://www.amazon.com/gp/product/B07HDFD78W">}}
 {{<spotify link="https://open.spotify.com/track/3Iqq1ETVvcaN6pfvfGQJsw">}}
 {{<deezer link="https://www.deezer.com/album/73286492">}}
+{{<napster link="https://us.napster.com/artist/skeeboo/album/geronimo">}}
