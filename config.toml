@@ -237,7 +237,12 @@ enableGitInfo = false
   [[params.social]]
     icon = "spotify"
     icon_pack = "fab"
-    link = "spotify:artist:6QO8N95lxenwy1rZl274UM"
+    link = "https://open.spotify.com/artist/6QO8N95lxenwy1rZl274UM?si=UETVilGaSnO3XgKjbsUt3g"
+
+  [[params.social]]
+    icon = "twitter"
+    icon_pack = "fab"
+    link = "https://twitter.com/SkeebooM"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
