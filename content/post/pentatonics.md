@@ -53,11 +53,11 @@ Im my ["Moods and Modes"](/#music) project I want to explore the feelings that d
 
 The major pentatonic may be used to express happiness and a cheerful attitude like in the track [For the Joy](/music/for_the_joy).
 
-{{<spotify_player uri="spotify:track:1NL1EsDbLdzSVtKArK0ghF">}}
+{{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
 
 The minor pentatonic lends itself to more serious (and diverse) moods. I tried to explore its thoughtful and meditative character in [Sail Away](/music/sail_away).
 
-{{<spotify_player uri="spotify:track:4AVJv7O9FNe6i7T7ZdiPxR">}}
+{{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
 
 Enjoy! And [tell me what you think about it](/#contact). 
 
