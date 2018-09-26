@@ -22,8 +22,8 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://skeeboo.bandcamp.com/track/geronimo?action=buy&from=embed"
-label = '<i class="fas fa-shopping-cart"></i> Get it now'
+url = "https://mailchi.mp/e3474bc5a036/for_the_joy"
+label = '<i class="fas fa-envelope"></i> Newsletter: keep in touch!'
 
 +++
 
