@@ -21,4 +21,4 @@ Short and straight to the point, it features a hammond organ solo with a classic
 
 As usual you can download it at [bandcamp](http://skeeboo.bandcamp.com/track/geronimo), streaming it at [Spotify](https://open.spotify.com/track/3Iqq1ETVvcaN6pfvfGQJsw), or get it at your preferred music store. Enjoy!
 
-{{<spotify_player_big uri="spotify:track:3Iqq1ETVvcaN6pfvfGQJsw">}}
+{{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}

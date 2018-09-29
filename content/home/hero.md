@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/Marilyn.jpg" width="320" link="http://skeeboo.bandcamp.com/track/geronimo" target="_blank">}}
+{{<figure src="/img/covers/Marilyn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eQx6" target="_blank">}}
 
-{{<bandcamp_small title="Marilyn" track="2220007958" link="https://skeeboo.bandcamp.com/track/marilyn">}}
+{{<bandcamp_small title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}}
