@@ -22,6 +22,6 @@ Save the playlist "Moods and modes" to stream all the project tracks in a single
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-"Joy Jumpers" is a soundtrack for happy and carefree moments featuring "For the Joy", have a listen!
+"Solo Sailors" is a playlist of quiet but passionate songs featuring "Sail Away", have a listen!
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4OBUhFsnAbQ8RPUD9OJlji">}}
