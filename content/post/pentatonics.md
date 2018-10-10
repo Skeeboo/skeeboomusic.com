@@ -8,7 +8,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Skeeboo"]
 
-tags = ["random_thoughts"]
+tags = ["scales"]
 summary = "The true 'natural' scales?"
 
 #[header]
