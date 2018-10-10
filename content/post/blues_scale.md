@@ -12,7 +12,7 @@ summary = "Five and one is blue"
 
 +++
 
-There are several "blues scales" in music, but maybe the best known is made taking a [minor pentatonic scale](/post/pentatonics) and adding one [blue note](https://en.wikipedia.org/wiki/Blue_note) between the third and fourth note.
+There are several "blues scales" in music, but maybe the best known is made by taking a [minor pentatonic scale](/post/pentatonics) and adding one [blue note](https://en.wikipedia.org/wiki/Blue_note) between the third and fourth note.
 
 Here's how a minor pentatonic sounds like:
 
