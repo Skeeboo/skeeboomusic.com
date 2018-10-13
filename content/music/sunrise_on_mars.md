@@ -1,12 +1,12 @@
 +++
 # Date this page was created.
-date = 2018-10-12T00:00:00
+date = 2018-10-13T00:00:00
 
 # Project title.
 title = "Sunrise on Mars"
 
 # Project summary to display on homepage.
-summary = "An alien synth salute the sun with a major pentascale tune"
+summary = "An alien synth salute the rissing sun with a major pentascale tune"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "covers/SunriseOnMars.jpg"
@@ -38,7 +38,7 @@ Hear the alien choir sing!
 
 
 
-{{<bandcamp title="Sunrise On Mars" track="2259420500" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
+{{<bandcamp title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
 
 ## Available from:
 
