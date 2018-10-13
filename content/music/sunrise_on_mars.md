@@ -6,7 +6,7 @@ date = 2018-10-13T00:00:00
 title = "Sunrise on Mars"
 
 # Project summary to display on homepage.
-summary = "An alien synth salute the rissing sun with a major pentascale tune"
+summary = "An alien synth salute the rising sun with a major pentascale tune"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "covers/SunriseOnMars.jpg"
@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-"Sunsrise on Mars" is track number 5 of the ["Moods and modes" project](/music). 
+"Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/music). 
 
 It's a festive and alien salute to the sun, with an interlude of strings and English Horn.
 
