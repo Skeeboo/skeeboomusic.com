@@ -43,5 +43,6 @@ Hear the alien choir sing!
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
+{{<amazon link="https://www.amazon.com/gp/product/B07JDGSBPL/">}}
 
 

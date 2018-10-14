@@ -37,7 +37,7 @@ The blues scale is able to [rock](/music/geronimo) but also loves to swing! Mari
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/marilyn">}}
 {{<itunes link="https://itunes.apple.com/us/album/marilyn-single/1437704664?uo=4&app=music&at=1001lry3&ct=dashboard">}}
-{{<amazon link="http://www.amazon.com/gp/product/B07HSSMSTZ/?tag=distrokid06-20">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07HSSMSTZ/">}}
 {{<spotify link="https://open.spotify.com/album/3kfOzodKhTpBx4au5C0Gev">}}
 {{<deezer link="https://www.deezer.com/album/74400032">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/marilyn">}}
