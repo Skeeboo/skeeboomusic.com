@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars" target="_blank">}}
+{{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/e1py" target="_blank">}}
 
 {{<bandcamp_small title="Sunrise on Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
