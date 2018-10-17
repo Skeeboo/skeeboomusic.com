@@ -1,6 +1,7 @@
 +++
 # Date this page was created.
 date = 2018-09-15T00:00:00
+lastmod = 2018-09-15T00:00:00
 
 # Project title.
 title = "Geronimo"
@@ -28,10 +29,9 @@ caption = ""
 
 +++
 
-"Moods and modes" third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
-
-
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
+
+"Moods and modes" third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
 
 ## Available from:
 
