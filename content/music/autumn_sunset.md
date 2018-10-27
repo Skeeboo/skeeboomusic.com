@@ -41,6 +41,8 @@ Hope you will like some cool season sound!
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fcIU">}}
+{{<youtube link="https://youtu.be/KenwcijA8f8">}}
+{{<deezer link="https://www.deezer.com/album/76873072">}}
 
 
 
