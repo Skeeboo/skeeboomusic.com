@@ -240,6 +240,11 @@ enableGitInfo = false
     link = "https://open.spotify.com/artist/6QO8N95lxenwy1rZl274UM?si=UETVilGaSnO3XgKjbsUt3g"
 
   [[params.social]]
+    icon = "youtube"
+    icon_pack = "fab"
+    link = "https://www.youtube.com/channel/UCV5MfjAuH1xeR1YD9KKhVVw"
+
+  [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
     link = "https://twitter.com/SkeebooM"

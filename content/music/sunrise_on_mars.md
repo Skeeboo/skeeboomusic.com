@@ -44,6 +44,7 @@ Hear the alien choir sing!
 {{<itunes link="https://itunes.apple.com/us/album/sunrise-on-mars-single/1438969932?app=itunes&ign-mpt=uo%3D4">}}
 {{<amazon link="https://www.amazon.com/gp/product/B07JDGSBPL/">}}
 {{<spotify link="https://open.spotify.com/track/1vYbVFGjdrMNsbsGXTXoo1">}}
+{{<youtube link="https://youtu.be/yiLUtYsWZDE">}}
 {{<deezer link="https://www.deezer.com/album/75581632">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sunrise-on-mars">}}
 

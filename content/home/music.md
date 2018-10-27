@@ -43,6 +43,6 @@ filter_default = 0
 
 +++
 
-"Moods and modes" is my current project: a collection of short tracks, each one exploring a different scale or mode and the feelings they inspire. 
+"Moods and modes" is my current project: a collection of short instrumental tracks, each one exploring a different musical scale or mode and the feelings they inspire. 
 
 Expect a couple of new tracks every month. Enjoy! 

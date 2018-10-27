@@ -48,5 +48,6 @@ A couple of jumpy violins set the mood of this major pentatonic tune.
 {{<itunes link="https://itunes.apple.com/us/album/for-the-joy-single/1435429128?uo=4&app=itunes&at=1001lry3&ct=dashboard">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07H45P5VY/">}}
 {{<spotify link="https://open.spotify.com/track/1NL1EsDbLdzSVtKArK0ghF">}}
+{{<youtube link="https://youtu.be/q4JSTra_iZs">}}
 {{<deezer link="https://www.deezer.com/album/72429062">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/for-the-joy">}}

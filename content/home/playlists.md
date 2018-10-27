@@ -22,6 +22,6 @@ Save the playlist "Moods and modes" to stream all the project tracks in a single
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-"Solo Sailors" is a playlist of quiet but passionate songs featuring "Sail Away", have a listen!
+"Rock Rollers" is a playlist of songs I carefully selected. Most tracks are by indipendent artists I like.
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4OBUhFsnAbQ8RPUD9OJlji">}}
