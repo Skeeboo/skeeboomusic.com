@@ -41,9 +41,11 @@ Hope you will like some cool season sound!
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 {{<itunes link="https://itunes.apple.com/us/album/autumn-sunset-single/1440364007">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fcIU">}}
+{{<spotify link="https://open.spotify.com/track/5fsTs2Vl7jP1JbFGx14Gg7">}}
 {{<youtube link="https://youtu.be/KenwcijA8f8">}}
 {{<deezer link="https://www.deezer.com/album/76873072">}}
+
+{{<figure src="/img/covers/AutumnSunset.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fcIU" target="_blank">}}
 
 
 

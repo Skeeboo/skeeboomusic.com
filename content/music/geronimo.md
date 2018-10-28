@@ -42,3 +42,5 @@ caption = ""
 {{<youtube link="https://youtu.be/YymU8cCznxk">}}
 {{<deezer link="https://www.deezer.com/album/73286492">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/geronimo">}}
+
+{{<figure src="/img/covers/Geronimo.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eFVa" target="_blank">}}

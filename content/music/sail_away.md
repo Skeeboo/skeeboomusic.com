@@ -41,3 +41,5 @@ The second track on the "Moods and modes" project explores the minor pentatonic 
 {{<youtube link="https://youtu.be/qvcRzvey-UU">}}
 {{<deezer link="https://www.deezer.com/album/71654472">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sail-away">}}
+
+{{<figure src="/img/covers/SailAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/erKH" target="_blank">}}

@@ -40,7 +40,6 @@ A couple of jumpy violins set the mood of this major pentatonic tune.
 ## Save and stream on Spotify
 
 {{<spotify_player_big uri="spotify:track:1NL1EsDbLdzSVtKArK0ghF">}}
-{{<spotify_player_big uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4OBUhFsnAbQ8RPUD9OJlji">}}
 
 ## Available from:
 
@@ -51,3 +50,5 @@ A couple of jumpy violins set the mood of this major pentatonic tune.
 {{<youtube link="https://youtu.be/q4JSTra_iZs">}}
 {{<deezer link="https://www.deezer.com/album/72429062">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/for-the-joy">}}
+
+{{<figure src="/img/covers/ForTheJoy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/erKH" target="_blank">}}

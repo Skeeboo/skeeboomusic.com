@@ -48,4 +48,4 @@ Hear the alien choir sing!
 {{<deezer link="https://www.deezer.com/album/75581632">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sunrise-on-mars">}}
 
-
+{{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/e1py" target="_blank">}}
