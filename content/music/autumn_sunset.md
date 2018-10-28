@@ -30,7 +30,7 @@ caption = ""
 
 {{<bandcamp title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 
-"Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/music). 
+"Autumn Sunset" is track number 6 of the ["Moods and modes" project](/music). 
 
 It's a cool latin jazz track, with a muted trumpet, an old piano and a clean guitar.
 The melody is based on a "minor pentascale" (the first five notes of a natural minor scale).  
@@ -40,6 +40,7 @@ Hope you will like some cool season sound!
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
+{{<itunes link="https://itunes.apple.com/us/album/autumn-sunset-single/1440364007">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fcIU">}}
 {{<youtube link="https://youtu.be/KenwcijA8f8">}}
 {{<deezer link="https://www.deezer.com/album/76873072">}}
