@@ -22,6 +22,8 @@ Save the playlist "Moods and modes" to stream all the project tracks in a single
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-"Rock Rollers" is a playlist of songs I carefully selected. Most tracks are by indipendent artists I like.
+"Swing Stream" is my latest playlist. Most tracks are by indipendent artists I like.
 
-{{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4OBUhFsnAbQ8RPUD9OJlji">}}
+{{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4fK0gJmTLezQ16neFwDfhJ">}}
+
+You can find all the playlist I am curating in the Moods and Modes "Great Table" [here](/post/moods_and_modes)

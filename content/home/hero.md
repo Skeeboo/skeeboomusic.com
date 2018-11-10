@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-09-15T00:00:00
 
-title = "New"
+title = ""
 
 # Order that this section will appear in.
 weight = 3
@@ -23,7 +23,7 @@ overlay_img = "hands3.png"
 
 [cta]
 url = "https://mailchi.mp/e3474bc5a036/for_the_joy"
-label = '<i class="fas fa-envelope"></i> Newsletter: keep in touch!'
+label = '<i class="fas fa-envelope"></i> Newsletter: let us be friends!'
 
 +++
 
