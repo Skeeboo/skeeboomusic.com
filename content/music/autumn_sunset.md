@@ -30,7 +30,7 @@ caption = ""
 
 {{<bandcamp title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 
-"Autumn Sunset" is track number 6 of the ["Moods and modes" project](/music). 
+"Autumn Sunset" is track number 6 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a cool latin jazz track, with a muted trumpet, an old piano and a clean guitar.
 The melody is based on a "minor pentascale" (the first five notes of a natural minor scale).  

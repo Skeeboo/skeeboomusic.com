@@ -31,7 +31,7 @@ caption = ""
 {{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
 {{<noisetrade code="56774cf5-911b-4c63-bf32-dc7f8efe86a3">}}
 
-The second track on the "Moods and modes" project explores the minor pentatonic scale and it features a flute and a cello in a gentle roll.
+The second track on the ["Moods and modes" project](/post/moods_and_modes) explores the minor pentatonic scale and it features a flute and a cello in a gentle roll.
 
 ## Available from:
 

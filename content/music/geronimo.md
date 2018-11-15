@@ -31,7 +31,7 @@ caption = ""
 
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
 
-"Moods and modes" third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
+["Moods and modes"](/post/moods_and_modes) third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
 
 ## Available from:
 

@@ -30,7 +30,7 @@ caption = ""
 
 {{<bandcamp title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}}
 
-The blues scale is able to [rock](/music/geronimo) but also loves to swing! Marilyn is the fourth track of the ["Moods and modes" project](/music) and she features an electric piano (an old Electra model) that swings around a hammond organ with the help of an upright bass.
+The blues scale is able to [rock](/music/geronimo) but also loves to swing! Marilyn is the fourth track of the ["Moods and modes" project](/post/moods_and_modes) and she features an electric piano (an old Electra model) that swings around a hammond organ with the help of an upright bass.
 
 ## Available from:
 

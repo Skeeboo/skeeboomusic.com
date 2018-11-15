@@ -2,7 +2,7 @@
 title = "Moods and Modes: the great plan"
 
 date = 2018-11-10T00:00:00
-lastmod = 2018-11-10T00:00:00
+lastmod = 2018-11-15T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -35,5 +35,5 @@ You can also save the Spotify playlist with all the music of the project:
 | [Blues Scale, swing rhythm](/post/blues_scale) | [Marilyn](/music/marilyn) | {{<bandcamp_small title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}} | {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4fK0gJmTLezQ16neFwDfhJ">}} | 
 | Major Pentascale | [Sunrise on Mars](/music/sunrise_on_mars) | {{<bandcamp_small title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}} | | 
 | Minor Pentascale | [Autumn Sunset](/music/autumn_sunset) | {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}} | | 
-| C major | coming soon! | | | 
+| C major | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | | 
 | Stay tuned! :) |  | | |

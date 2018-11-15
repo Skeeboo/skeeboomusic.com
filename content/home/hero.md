@@ -22,12 +22,12 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://mailchi.mp/e3474bc5a036/for_the_joy"
-label = '<i class="fas fa-envelope"></i> Newsletter: let us be friends!'
+url = "https://mailchi.mp/f6a12b953721/sailaway"
+label = '<i class="fas fa-envelope"></i> Newsletter: join the family!'
 
 +++
 
 
-{{<figure src="/img/covers/AutumnSunset.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fcIU" target="_blank">}}
+{{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
 
-{{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
+{{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}}
