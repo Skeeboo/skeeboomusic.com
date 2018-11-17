@@ -41,6 +41,7 @@ Sometimes we need just simple things.
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/simple-dreams">}}
+{{<itunes link="https://itunes.apple.com/us/album/simple-dreams-single/1442700293">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07KLDR2CH">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fsTj">}}
 
