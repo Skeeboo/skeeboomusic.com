@@ -39,7 +39,7 @@ The second track on the ["Moods and modes" project](/post/moods_and_modes) explo
 {{<itunes link="https://itunes.apple.com/us/album/sail-away-single/">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07GVPNJBZ/">}}
 {{<spotify link="https://open.spotify.com/track/4AVJv7O9FNe6i7T7ZdiPxR?si=jF_Hm_IoRIW-X58IDdcPFg">}}
-{{<youtube link="https://youtu.be/qvcRzvey-UU">}}
+{{<youtube link="https://youtu.be/kD1vao9-eBI">}}
 {{<deezer link="https://www.deezer.com/album/71654472">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sail-away">}}
 
