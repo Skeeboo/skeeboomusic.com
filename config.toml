@@ -295,7 +295,7 @@ enableGitInfo = false
   weight = 6
 
 [[menu.main]]
-  name = "Free download"
+  name = "Newsletter"
   url = "https://mailchi.mp/f6a12b953721/sailaway"
   weight = 7
 

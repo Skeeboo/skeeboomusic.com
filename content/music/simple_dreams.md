@@ -43,7 +43,7 @@ Sometimes we need just simple things.
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/simple-dreams">}}
 {{<itunes link="https://itunes.apple.com/us/album/simple-dreams-single/1442700293">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07KLDR2CH">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fsTj">}}
+{{<spotify link="https://open.spotify.com/track/3FKzlj0Y6uKFbt44NUBD8f">}}
 
 
 {{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
