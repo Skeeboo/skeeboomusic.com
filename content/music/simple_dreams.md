@@ -28,7 +28,8 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}}
+{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
+{{<spotify_player_big uri="spotify:track:3FKzlj0Y6uKFbt44NUBD8f">}}
 
 "Simple Dreams" is track number 7 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -47,9 +48,7 @@ Sometimes we need just simple things.
 {{<youtube link="https://youtu.be/D0IVIs3bgWQ">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/simple-dreams">}}
 
-
 {{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
-
 
 
 

@@ -29,6 +29,8 @@ caption = ""
 +++
 
 {{<bandcamp title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
+{{<spotify_player_big uri="spotify:track:1vYbVFGjdrMNsbsGXTXoo1">}}
+
 
 "Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/post/moods_and_modes). 
 

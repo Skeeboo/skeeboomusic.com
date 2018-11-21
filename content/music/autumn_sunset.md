@@ -29,6 +29,7 @@ caption = ""
 +++
 
 {{<bandcamp title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
+{{<spotify_player_big uri="spotify:track:5fsTs2Vl7jP1JbFGx14Gg7">}}
 
 "Autumn Sunset" is track number 6 of the ["Moods and modes" project](/post/moods_and_modes). 
 
