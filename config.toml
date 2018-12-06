@@ -296,7 +296,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Newsletter"
-  url = "https://mailchi.mp/f6a12b953721/sailaway"
+  url = "https://mailchi.mp/c5da3fd173ba/geronimo"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,0 +1,49 @@
++++
+# Date this page was created.
+date = 2018-12-06T00:00:00
+
+# Project title.
+title = "Serenidad"
+
+# Project summary to display on homepage.
+summary = "A serene latin dance in C major"
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "covers/Serenidad.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Moods and Modes"]
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Optional featured image (relative to `static/img/` folder).
+[header]
+image = ""
+caption = ""
+
++++
+
+{{<bandcamp title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}}
+
+"Serenidad" is track number 8 of the ["Moods and modes" project](/post/moods_and_modes). 
+
+It's a serene conversation between a flute and a trumpet in a caribbean mood.
+The melody is based on the C major scale, like [Simple Dreams](/music/simple_dreams) but this time I try to highlight the joyful side of this simple scale. 
+
+Smile and move those feets...
+
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/serenidad">}}
+{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fKNj">}}
+
+{{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
+
+
+

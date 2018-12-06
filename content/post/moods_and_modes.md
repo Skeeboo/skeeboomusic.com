@@ -2,7 +2,7 @@
 title = "Moods and Modes: the great plan"
 
 date = 2018-11-10T00:00:00
-lastmod = 2018-11-25T00:00:00
+lastmod = 2018-12-06T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -36,4 +36,4 @@ You can also save the Spotify playlist with all the music of the project:
 | [Major Pentascale](/post/pentascales) | [Sunrise on Mars](/music/sunrise_on_mars) | {{<bandcamp_small title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}} | {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:2zhGtGfZty6sR1HKj7JW1Z">}} | 
 | [Minor Pentascale](/post/pentascales) | [Autumn Sunset](/music/autumn_sunset) | {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}} | | 
 | C major | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | | 
-| Stay tuned! :) |  | | |
+| C major | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | |
