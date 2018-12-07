@@ -30,7 +30,7 @@ caption = ""
 +++
 
 {{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
-{{<noisetrade code="eec49708-2e55-4972-afa2-b2de1af8e38b">}}
+{{<spotify_player_big uri="spotify:track:3Iqq1ETVvcaN6pfvfGQJsw">}}
 
 ["Moods and modes"](/post/moods_and_modes) third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
 
@@ -40,7 +40,7 @@ caption = ""
 {{<itunes link="https://itunes.apple.com/us/album/geronimo-single/1436411799?app=apple%20music">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07HDFD78W">}}
 {{<spotify link="https://open.spotify.com/track/3Iqq1ETVvcaN6pfvfGQJsw">}}
-{{<youtube link="https://youtu.be/YymU8cCznxk">}}
+{{<youtube link="https://youtu.be/tvdQtdudq-4">}}
 {{<deezer link="https://www.deezer.com/album/73286492">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/geronimo">}}
 

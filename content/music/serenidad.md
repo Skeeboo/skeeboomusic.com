@@ -41,7 +41,9 @@ Smile and move those feets...
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/serenidad">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07L5XPHL1">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fKNj">}}
+{{<deezer link="https://www.deezer.com/album/81252502">}}
 
 {{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
 
