@@ -29,6 +29,7 @@ caption = ""
 +++
 
 {{<bandcamp title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}}
+{{<spotify_player_big uri="spotify:track:6EcWL2pVmEiGQGN0TjkyLh">}}
 
 "Serenidad" is track number 8 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -41,8 +42,10 @@ Smile and move those feets...
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/serenidad">}}
+{{<itunes link="https://itunes.apple.com/us/album/serenidad-single/1445959067">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07L5XPHL1">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/fKNj">}}
+{{<spotify link="https://open.spotify.com/track/6EcWL2pVmEiGQGN0TjkyLh">}}
+{{<youtube link="https://music.youtube.com/watch?v=eKXeqsaPS0g&feature=share">}}
 {{<deezer link="https://www.deezer.com/album/81252502">}}
 
 {{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
