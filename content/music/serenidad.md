@@ -47,6 +47,7 @@ Smile and move those feets...
 {{<spotify link="https://open.spotify.com/track/6EcWL2pVmEiGQGN0TjkyLh">}}
 {{<youtube link="https://music.youtube.com/watch?v=eKXeqsaPS0g&feature=share">}}
 {{<deezer link="https://www.deezer.com/album/81252502">}}
+{{<napster link="https://us.napster.com/artist/skeeboo/album/serenidad">}}
 
 {{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
 
