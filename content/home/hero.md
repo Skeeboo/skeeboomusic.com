@@ -22,8 +22,8 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://mailchi.mp/c5da3fd173ba/geronimo"
-label = '<i class="fas fa-envelope"></i> Newsletter: join the family!'
+url = "https://hypeddit.com/track/jz2d0i"
+label = '<i class="fas fa-envelope"></i> Newsletter: download free music and join the family!'
 
 +++
 

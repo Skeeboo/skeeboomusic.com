@@ -22,7 +22,7 @@ Save the playlist "Moods and modes" to stream all the project tracks in a single
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-"Swing Stream" is my latest playlist. Most tracks are by indipendent artists I like.
+"Swing Stream" is my most followed playlist. Most tracks are by indipendent artists I like.
 
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4fK0gJmTLezQ16neFwDfhJ">}}
 
