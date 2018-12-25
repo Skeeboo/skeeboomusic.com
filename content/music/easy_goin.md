@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+{{<figure src="/img/covers/EasyGoin.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/f0SW" target="_blank">}}
 
 "Easy Goin'" is track number 9 of the ["Moods and modes" project](/post/moods_and_modes). 
 
