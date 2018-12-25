@@ -2,7 +2,7 @@
 title = "Moods and Modes: the great plan"
 
 date = 2018-11-10T00:00:00
-lastmod = 2018-12-13T00:00:00
+lastmod = 2018-12-25T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -37,5 +37,5 @@ You can also save the Spotify playlist with all the music of the project:
 | [Minor Pentascale](/post/pentascales) | [Autumn Sunset](/music/autumn_sunset) | {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}} | {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:52VA2zApKwChFvfm5ELeAL">}}| 
 | C major | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | | 
 | C major | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | |
-| C major with blue note | coming soon... | | |
-| to be continued... | | | |
+| C major with blue note | [Easy Goin'](/music/easy_goin) | {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}} | |
+| A minor natural | Stay tuned! | | |
