@@ -39,8 +39,14 @@ The melody is based on the C major scale, but with an added [blue note](https://
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+{{<itunes link="https://itunes.apple.com/us/album/easy-goin-single/1447816440">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07MNGRD61">}}
 {{<spotify link="https://open.spotify.com/track/05ZIttR5M08nqAvObFfHUw">}}
+{{<youtube link="https://music.youtube.com/watch?v=lZ3RZKkMc48&feature=share">}}
+{{<deezer link="https://www.deezer.com/album/82788262">}}
+{{<napster link="https://napster.com/artist/art.324634091/album/alb.343466136/track/tra.343466137">}}
+
+
 
 {{<figure src="/img/covers/EasyGoin.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/f0SW" target="_blank">}}
 
