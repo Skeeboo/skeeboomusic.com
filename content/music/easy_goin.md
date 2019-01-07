@@ -28,21 +28,21 @@ caption = ""
 
 +++
 
-{{<figure src="/img/covers/EasyGoin.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/f0SW" target="_blank">}}
+{{<bandcamp title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+{{<spotify_player_big uri="spotify:track:05ZIttR5M08nqAvObFfHUw">}}
 
 "Easy Goin'" is track number 9 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a happy swing tune where a fiddle strolls around a small jazz band.
 The melody is based on the C major scale, but with an added [blue note](https://en.wikipedia.org/wiki/Blue_note) (a lowered third). With this addition, the happy major scale gets a mischievous tone...
 
-## Available January 7th, 2019; on pre-sale now:
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07MNGRD61">}}
+{{<spotify link="https://open.spotify.com/track/05ZIttR5M08nqAvObFfHUw">}}
 
 {{<figure src="/img/covers/EasyGoin.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/f0SW" target="_blank">}}
-
-{{<amazon link="http://www.amazon.com/gp/product/B07MNGRD61">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/f0SW">}}
-
-
 
 
 
