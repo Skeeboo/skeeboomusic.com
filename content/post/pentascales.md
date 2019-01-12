@@ -54,7 +54,7 @@ I imagined played in a smokey bar with a latin jazz feel. With an old piano and 
 
 {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 
-That's how the tracks number 5 and 6 of my [/post/moods_and_modes](/#music) project were made. I'd really love to know [what you think about it](/#contact). 
+That's how the tracks number 5 and 6 of my [Moods and Modes](/post/moods_and_modes) project were made. I'd really love to know [what you think about it](/#contact). 
 
 ## Thanks for reading!
 

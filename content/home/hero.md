@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 +++
 
 
-{{<figure src="/img/covers/EasyGoin.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/f0SW" target="_blank">}}
+{{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
 {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}

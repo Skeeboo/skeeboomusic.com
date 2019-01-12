@@ -33,7 +33,7 @@ caption = ""
 
 "Simple Dreams" is track number 7 of the ["Moods and modes" project](/post/moods_and_modes). 
 
-It's a simple emotional song, featuring a string section, a piano (for the forst time in the project) and a flute. 
+It's a simple emotional song, featuring a string section, a piano (for the first time in the project) and a flute. 
 The melody is based on the C major scale, trying to reflect its simple beauty. 
 
 Sometimes we need just simple things.
