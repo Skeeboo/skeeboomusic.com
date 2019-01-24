@@ -30,4 +30,4 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 
 {{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
-{{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+{{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}

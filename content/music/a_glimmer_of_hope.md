@@ -28,16 +28,19 @@ caption = ""
 
 +++
 
-## Coming soon: Jan, 25th, 2019
-
-{{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
+{{<bandcamp title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
 
 "A Glimmer of Hope" is track number 10 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a melancholic but hopeful composition for orchestra.
 The melody is based on the A minor scale, that inspired a passionate theme which called for an orchestral treatment (the first of the project).
 
-You can pre-save the track on Spotify by clicking on the cover art below, and be reminded on release day.
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
+{{<itunes link="https://itunes.apple.com/us/album/a-glimmer-of-hope-single/1449380426">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07MMF9M94">}}
+{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/giiN">}}
 
 {{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
