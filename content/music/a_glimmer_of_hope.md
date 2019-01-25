@@ -29,6 +29,7 @@ caption = ""
 +++
 
 {{<bandcamp title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
+{{<spotify_player_big uri="spotify:track:7nOVLHLQLKETnwjRiEgNEG">}}
 
 "A Glimmer of Hope" is track number 10 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -40,7 +41,8 @@ The melody is based on the A minor scale, that inspired a passionate theme which
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
 {{<itunes link="https://itunes.apple.com/us/album/a-glimmer-of-hope-single/1449380426">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07MMF9M94">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/giiN">}}
+{{<spotify link="https://open.spotify.com/track/7nOVLHLQLKETnwjRiEgNEG">}}
+{{<youtube link="https://music.youtube.com/watch?v=tjmGWorML5A&feature=share">}}
 
 {{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
