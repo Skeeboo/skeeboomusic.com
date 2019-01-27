@@ -43,6 +43,7 @@ The melody is based on the A minor scale, that inspired a passionate theme which
 {{<amazon link="http://www.amazon.com/gp/product/B07MMF9M94">}}
 {{<spotify link="https://open.spotify.com/track/7nOVLHLQLKETnwjRiEgNEG">}}
 {{<youtube link="https://music.youtube.com/watch?v=tjmGWorML5A&feature=share">}}
+{{<deezer link="https://www.deezer.com/album/84196522">}}
 
 {{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
