@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-09-15T00:00:00
 
-title = ""
+title = "Coming Feb, 15th"
 
 # Order that this section will appear in.
 weight = 3
@@ -28,6 +28,8 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 +++
 
 
-{{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
+{{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}
+
+<br/>
 
 {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
