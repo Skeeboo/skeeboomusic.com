@@ -24,17 +24,17 @@ That is, in its simplicity, the scale we all learn as kids:
 
 {{<google_drive track="15xhgVMECRZWb7WU3tc_z5SXJP8bojJ8s">}}
 
-This scale is seldom used in music composition but... why not? To have more material to work with, I cheated a little bit and permitted myself to move the hand, playing some of the 5 notes (C-D-E-F-G) also on the lower or upper octave. This is the extended scale:
+At my ears it calls for simple and serene melodies. I decided to explore it from different point of views: that of the mind and that of the body
 
-{{<google_drive track="1rW_-fH1AUAn9BKMf9aTq5BdYxRXcsg_2">}}
+## The mind
 
-This is a short melody composed with this material:
+The C major scales can be the stuff of dreams, at least the serene and simple ones. This is the melody I came up with (here played on the piano, with chords):
 
-{{<google_drive track="1faIm4YiL8TsQ84T665vuLfhyTZwJgETT">}}
+{{<google_drive track="1Rjf_DiIHTQOBNXid3MjGKirTJeqijGpA">}}
 
-This melody sounded to me as festive and somewhat strange, so I imagined a bunch of aliens saluting the rising sun on their planet, I gave the melody to an alien-sounding synth sound, and [Sunrise on Mars](/music/sunrise_on_mars) was born.
+I thought the perfect dress for this simple dream should be completely acoustic, with piano, strings and flute. That's how [Simple Dreams](/music/simple_dreams) came to be:
 
-{{<bandcamp_small title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
+{{<bandcamp_small title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
 
 ## Minor pentascale
 
