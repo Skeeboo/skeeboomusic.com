@@ -36,9 +36,9 @@ I thought the perfect dress for this simple dream should be completely acoustic,
 
 {{<bandcamp_small title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
 
-## Minor pentascale
+## The body
 
-If you put your right thumb on an A key instead, and let your other fingers lay down on successive white keys, you get a minor pentascale (A-B-C-D-E):
+The C major scale is the perfect one to dance to (with a smile on your face). Hear this simple melody based on the descending C major scale:
 
 {{<google_drive track="1jRo63tAhHzfhw-WCo0D7HGJJuoR28f4d">}}
 
