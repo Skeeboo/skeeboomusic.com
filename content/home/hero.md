@@ -2,9 +2,9 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2018-09-15T00:00:00
+date = 2019-02-14T00:00:00
 
-title = "Coming Feb, 15th"
+title = ""
 
 # Order that this section will appear in.
 weight = 3
