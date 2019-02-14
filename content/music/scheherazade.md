@@ -28,18 +28,16 @@ caption = ""
 
 +++
 
-## Coming Feb, 15th:
-
-{{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}
+{{<bandcamp title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}}
 
 "Scheherazade" is track number 11 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a middle eastern sounding vignette with a minimal arrangement for Oud, Zither and Flute.
 The melody is an exploration of the vaguely oriental flavour of the A harmonic minor scale.
 
-## Pre-save and presales:
+## Available from:
 
+{{<bandcamp_link link="http://skeeboo.bandcamp.com/track/scheherazade">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/scheherazade">}}
 
-
-
+{{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}

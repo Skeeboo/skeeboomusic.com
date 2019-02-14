@@ -2,7 +2,7 @@
 title = "Moods and Modes: the great plan"
 
 date = 2018-11-10T00:00:00
-lastmod = 2019-01-25T00:00:00
+lastmod = 2019-02-14T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -39,5 +39,5 @@ You can also save the Spotify playlist with all the music of the project:
 | C major | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:52VA2zApKwChFvfm5ELeAL">}} |
 | C major with blue note | [Easy Goin'](/music/easy_goin) | {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}} | {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:4fK0gJmTLezQ16neFwDfhJ">}} |
 | A natural minor | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} | |
-| A harmonic minor | [Scheherazade](/music/scheherazade) | | |
+| A harmonic minor | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} | |
 | A minor mixed | Stay tuned! | | |

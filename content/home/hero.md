@@ -30,6 +30,4 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 
 {{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}
 
-<br/>
-
-{{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}}
+{{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}}
