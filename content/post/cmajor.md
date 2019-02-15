@@ -40,29 +40,35 @@ I thought the perfect dress for this simple dream should be completely acoustic,
 
 The C major scale is the perfect one to dance to (with a smile on your face). Hear this simple melody based on the descending C major scale:
 
-{{<google_drive track="1jRo63tAhHzfhw-WCo0D7HGJJuoR28f4d">}}
+{{<google_drive track="1KMbepksNxB4kaZEfVRHcKMSQ0xFvhiO7">}}
 
-Cheating a little beat as before, I added some notes (A-B-C) also on the upper octave:
+A caribbean mood, a flute and a trumpet playing a game of "call and response" transformed this little melody in [Serenidad](/music/serenidad):
 
-{{<google_drive track="1yQ79Zf8atB5H9xogq0HJtHSCf3Z0g2N9">}}
+{{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}}
 
-The character of this scale is more sombre and reflective. The melody I came up with is this:
+## The joke
 
-{{<google_drive track="15sRByNLRvzrdVdKWmq8U1RXBTVVnaslF">}}
+Now let's try a little joke by spicing the C major scale with a "blue note". This idea came from the always inspiring method of improvisation "Create First" by [Forrest Kinney](https://forrestkinney.com). If you add a lowered third you get this mischievious 8-note scale:
 
-I imagined played in a smokey bar with a latin jazz feel. With an old piano and a muted trumpet to set the mood, this ended up in [Autumn Sunset](/music/autumn_sunset)
+{{<google_drive track="1xGkk9YmtI_t3ozN-oEeE_WgkSeH4sDoH">}}
 
-{{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
+Here's a melody I wrote with this hybrid scale, continuously drifting between a major and a minor mood:
 
-That's how the tracks number 5 and 6 of my [Moods and Modes](/post/moods_and_modes) project were made. I'd really love to know [what you think about it](/#contact). 
+{{<google_drive track="19qpPX5s9WSWlW4YEpR0z4V0icuj2nSBP">}}
+
+I gave the melody to a fiddle (to be honest, I imagined it played by a violin from the start) with the accompaniment of a small "speakeasy" jazz band. The result is "Easy Goin'":
+
+{{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+
+That's how the tracks number 7,8 and 9 of my [Moods and Modes](/post/moods_and_modes) project were made. I'd really love to know [what you think about it](/#contact). 
 
 ## Thanks for reading!
 
 If you like this project and my music, consider supporting my music and this project by:
 
 1. Subscribing to my newsletter. By doing so, you will be informed of every new release, ang get a [free download of Sail Away, the second track of the project](https://mailchi.mp/f6a12b953721/sailaway)
-2. Download from Bandcamp [the EP that contains these tracks](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-1) (and 4 others) directly supporting my music 
-3. Streaming, saving and adding to your playlists these tracks on Spotify: [Sunrise on Mars](https://open.spotify.com/track/1vYbVFGjdrMNsbsGXTXoo1) and [Autumn Sunset](https://open.spotify.com/track/5fsTs2Vl7jP1JbFGx14Gg7)
+2. Download from Bandcamp [the tracks of the project](https://skeeboo.bandcamp.com/) directly supporting my music (Thank you!!)
+3. Streaming, saving and adding to your playlists these tracks on Spotify: [Simple Dreams](https://open.spotify.com/track/3FKzlj0Y6uKFbt44NUBD8f) ; [Serenidad](https://open.spotify.com/track/6EcWL2pVmEiGQGN0TjkyLh) and [Easy Goin'](https://open.spotify.com/track/05ZIttR5M08nqAvObFfHUw)
 4. Sharing this post with everyone you think may like it :)
 
-Stay tuned for the next releases! Coming next: old plain simple C major!
+Stay tuned for the next releases! Coming next: A minor!
