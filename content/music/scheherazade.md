@@ -29,6 +29,7 @@ caption = ""
 +++
 
 {{<bandcamp title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}}
+{{<spotify_player_big uri="spotify:track:69GWhyXDXBDHRSMi6TUp3a">}}
 
 "Scheherazade" is track number 11 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -38,6 +39,9 @@ The melody is an exploration of the vaguely oriental flavour of the A harmonic m
 ## Available from:
 
 {{<bandcamp_link link="http://skeeboo.bandcamp.com/track/scheherazade">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/scheherazade">}}
+{{<itunes link="https://itunes.apple.com/us/album/scheherazade-single/1451266753">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07N8G2VDP">}}
+{{<spotify link="https://open.spotify.com/track/69GWhyXDXBDHRSMi6TUp3a">}}
+{{<deezer link="https://www.deezer.com/album/85940982">}}
 
 {{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}
