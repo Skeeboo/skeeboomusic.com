@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2019-02-14T00:00:00
+date = 2019-03-02T00:00:00
 
 title = ""
 
@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 +++
 
 
-{{<figure src="/img/covers/Scheherazade.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/scheherazade" target="_blank">}}
+{{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
 
-{{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}}
+{{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}

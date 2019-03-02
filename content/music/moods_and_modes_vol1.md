@@ -33,5 +33,4 @@ caption = ""
 "Moods and Modes vol. I" is an EP that collects the first 6 sketches of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's available exclusively from [Bandcamp](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-1), a great website to discover new beautiful music.
-By [downloading the album there](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-1) you will directly support the project. Thank you!
-
+The tracks included explore the moods suggested by some scales with less than 7 notes: [major and minor pentatonic](/post/pentatonics), [blues scale](/post/blues_scale), [major and minor pentascale](/post/pentascales).
