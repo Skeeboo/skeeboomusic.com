@@ -28,9 +28,9 @@ caption = ""
 
 +++
 
-## Coming on March, 8th
+{{<bandcamp title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
+{{<spotify_player_big uri="spotify:track:5UTyM6W4fjSHglpu88Irni">}}
 
-{{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
 
 "Sound of Past Moments" is track number 12 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -39,12 +39,10 @@ The melodies are based on a "hybrid" minor scale, that merges natural minor and 
 
 ## Available from:
 
-{{<bandcamp title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
-
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
 {{<itunes link="https://itunes.apple.com/us/album/sound-of-past-moments-single/1454137291">}}
+{{<spotify link="https://open.spotify.com/track/5UTyM6W4fjSHglpu88Irni">}}
 
-## Spotify pre-save:
 {{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
 
 
