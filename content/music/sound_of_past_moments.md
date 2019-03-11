@@ -42,6 +42,7 @@ The melodies are based on a "hybrid" minor scale, that merges natural minor and 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
 {{<itunes link="https://itunes.apple.com/us/album/sound-of-past-moments-single/1454137291">}}
 {{<spotify link="https://open.spotify.com/track/5UTyM6W4fjSHglpu88Irni">}}
+{{<deezer link="https://www.deezer.com/album/88347962">}}
 
 {{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
 
