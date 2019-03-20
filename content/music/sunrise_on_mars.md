@@ -28,9 +28,7 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
-{{<spotify_player_big uri="spotify:track:1vYbVFGjdrMNsbsGXTXoo1">}}
-
+{{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/e1py" target="_blank">}}
 
 "Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -39,6 +37,10 @@ It's a festive and alien salute to the sun, with an interlude of strings and Eng
 The melody played by the synth is based on a "major pentascale" (the first five notes of a major scale). It's not a scale very used in music, but it's something every five-fingered classical-trained beginner pianist learn to play at the start of their career.  
 
 Hear the alien choir sing!
+
+## Stream and download for free
+
+{{<bandcamp title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
 
 ## Available from:
 
@@ -50,4 +52,4 @@ Hear the alien choir sing!
 {{<deezer link="https://www.deezer.com/album/75581632">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sunrise-on-mars">}}
 
-{{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/e1py" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:1vYbVFGjdrMNsbsGXTXoo1">}}

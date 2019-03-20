@@ -28,8 +28,7 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
-{{<spotify_player_big uri="spotify:track:3FKzlj0Y6uKFbt44NUBD8f">}}
+{{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
 
 "Simple Dreams" is track number 7 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -38,6 +37,7 @@ The melody is based on the C major scale, trying to reflect its simple beauty.
 
 Sometimes we need just simple things.
 
+{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
 
 ## Available from:
 
@@ -49,7 +49,7 @@ Sometimes we need just simple things.
 {{<deezer link="https://www.deezer.com/album/78927772">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/simple-dreams">}}
 
-{{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:3FKzlj0Y6uKFbt44NUBD8f">}}
 
 
 

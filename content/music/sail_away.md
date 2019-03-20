@@ -28,10 +28,13 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
-{{<noisetrade code="56774cf5-911b-4c63-bf32-dc7f8efe86a3">}}
+{{<figure src="/img/covers/SailAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/erKH" target="_blank">}}
 
 The second track on the ["Moods and modes" project](/post/moods_and_modes) explores the minor pentatonic scale and it features a flute and a cello in a gentle roll.
+
+## Stream and download for free
+
+{{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
 
 ## Available from:
 
@@ -43,4 +46,4 @@ The second track on the ["Moods and modes" project](/post/moods_and_modes) explo
 {{<deezer link="https://www.deezer.com/album/71654472">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sail-away">}}
 
-{{<figure src="/img/covers/SailAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/erKH" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:4AVJv7O9FNe6i7T7ZdiPxR">}}

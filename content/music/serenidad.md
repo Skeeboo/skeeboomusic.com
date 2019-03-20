@@ -28,8 +28,7 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}}
-{{<spotify_player_big uri="spotify:track:6EcWL2pVmEiGQGN0TjkyLh">}}
+{{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
 
 "Serenidad" is track number 8 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -38,6 +37,7 @@ The melody is based on the C major scale, like [Simple Dreams](/music/simple_dre
 
 Smile and move those feets...
 
+{{<bandcamp title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}}
 
 ## Available from:
 
@@ -49,7 +49,7 @@ Smile and move those feets...
 {{<deezer link="https://www.deezer.com/album/81252502">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/serenidad">}}
 
-{{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:6EcWL2pVmEiGQGN0TjkyLh">}}
 
 
 

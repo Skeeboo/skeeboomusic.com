@@ -29,10 +29,13 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
-{{<spotify_player_big uri="spotify:track:3Iqq1ETVvcaN6pfvfGQJsw">}}
+{{<figure src="/img/covers/Geronimo.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eFVa" target="_blank">}}
 
 ["Moods and modes"](/post/moods_and_modes) third track features a hammond organ improvising on a blues scale with the backing of a classic rock rhythm section. Enjoy!
+
+## Stream and download for free:
+
+{{<bandcamp title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}}
 
 ## Available from:
 
@@ -44,4 +47,4 @@ caption = ""
 {{<deezer link="https://www.deezer.com/album/73286492">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/geronimo">}}
 
-{{<figure src="/img/covers/Geronimo.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eFVa" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:3Iqq1ETVvcaN6pfvfGQJsw">}}

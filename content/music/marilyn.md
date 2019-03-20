@@ -28,10 +28,13 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}}
-{{<spotify_player_big uri="spotify:track:4xng9S2jM5KsbXuj4Q9W7N">}}
+{{<figure src="/img/covers/Marilyn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eQx6" target="_blank">}}
 
 The blues scale is able to [rock](/music/geronimo) but also loves to swing! Marilyn is the fourth track of the ["Moods and modes" project](/post/moods_and_modes) and she features an electric piano (an old Electra model) that swings around a hammond organ with the help of an upright bass.
+
+## Stream and download for free
+
+{{<bandcamp title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}}
 
 ## Available from:
 
@@ -43,4 +46,4 @@ The blues scale is able to [rock](/music/geronimo) but also loves to swing! Mari
 {{<deezer link="https://www.deezer.com/album/74400032">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/marilyn">}}
 
-{{<figure src="/img/covers/Marilyn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eQx6" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:4xng9S2jM5KsbXuj4Q9W7N">}}

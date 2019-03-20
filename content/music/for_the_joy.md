@@ -26,20 +26,15 @@ math = false
 image = ""
 caption = ""
 
-# Noisetrade code 2a3cae2b-45c0-4692-bcad-639b3966ef3d
-
 +++
 
-A couple of jumpy violins set the mood of this major pentatonic tune.
+{{<figure src="/img/covers/ForTheJoy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eyMR" target="_blank">}}
 
-## Free download on Bandcamp and Noisetrade
+A couple of jumpy violins set the mood of this major pentatonic tune, the first to be composed for the project
+
+## Stream and download for free
 
 {{<bandcamp title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}}
-{{<noisetrade code="2a3cae2b-45c0-4692-bcad-639b3966ef3d">}}
-
-## Save and stream on Spotify
-
-{{<spotify_player_big uri="spotify:track:1NL1EsDbLdzSVtKArK0ghF">}}
 
 ## Available from:
 
@@ -51,4 +46,4 @@ A couple of jumpy violins set the mood of this major pentatonic tune.
 {{<deezer link="https://www.deezer.com/album/72429062">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/for-the-joy">}}
 
-{{<figure src="/img/covers/ForTheJoy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/erKH" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:1NL1EsDbLdzSVtKArK0ghF">}}

@@ -28,8 +28,7 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
-{{<spotify_player_big uri="spotify:track:5fsTs2Vl7jP1JbFGx14Gg7">}}
+{{<figure src="/img/covers/AutumnSunset.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fcIU" target="_blank">}}
 
 "Autumn Sunset" is track number 6 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -37,6 +36,8 @@ It's a cool latin jazz track, with a muted trumpet, an old piano and a clean gui
 The melody is based on a "minor pentascale" (the first five notes of a natural minor scale).  
 
 Hope you will like some cool season sound!
+
+{{<bandcamp title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}}
 
 ## Available from:
 
@@ -48,8 +49,7 @@ Hope you will like some cool season sound!
 {{<deezer link="https://www.deezer.com/album/76873072">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/autumn-sunset">}}
 
-
-{{<figure src="/img/covers/AutumnSunset.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fcIU" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:5fsTs2Vl7jP1JbFGx14Gg7">}}
 
 
 

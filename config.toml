@@ -284,10 +284,10 @@ enableGitInfo = false
   url = "#posts"
   weight = 4
 
-[[menu.main]]
-  name = "Playlists"
-  url = "#playlists"
-  weight = 5
+#[[menu.main]]
+#  name = "Playlists"
+#  url = "#playlists"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"

@@ -28,22 +28,23 @@ caption = ""
 
 +++
 
-{{<bandcamp title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
-{{<spotify_player_big uri="spotify:track:5UTyM6W4fjSHglpu88Irni">}}
-
+{{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
 
 "Sound of Past Moments" is track number 12 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a nostalgic retro rock instrumental sketch dominated by keyboards (an analog synth, a mellotron with flute tape, a piano).
 The melodies are based on a "hybrid" minor scale, that merges natural minor and harmonic minor flavours.
 
+{{<bandcamp title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
+
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
 {{<itunes link="https://itunes.apple.com/us/album/sound-of-past-moments-single/1454137291">}}
+{{<amazon link="https://www.amazon.com/Sound-Past-Moments-Skeeboo/dp/B07P2H843K">}}
 {{<spotify link="https://open.spotify.com/track/5UTyM6W4fjSHglpu88Irni">}}
 {{<deezer link="https://www.deezer.com/album/88347962">}}
 
-{{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:5UTyM6W4fjSHglpu88Irni">}}
 
 
