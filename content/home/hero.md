@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 +++
 
 
-{{<figure src="/img/covers/SoundOfPastMoments.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/sound-of-past-moments" target="_blank">}}
+{{<figure src="/img/covers/FanfareForAJester.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fanfare-for-a-jester" target="_blank">}}
 
-{{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
+{{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}}
