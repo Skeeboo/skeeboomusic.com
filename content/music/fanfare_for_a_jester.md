@@ -37,11 +37,12 @@ The trumpet fanfares and the melodies played by the recorder are based on the Do
 
 {{<bandcamp title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}}
 
-## Available March 29, 2019 from every store
+## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}}
 {{<itunes link="https://itunes.apple.com/us/album/fanfare-for-a-jester-single/1456078883">}}
+{{<spotify link="https://open.spotify.com/track/1vmQpRTn5cEziwG73r9ccN?si=Omhv9ubVSxWq91YQPTGxVQ">}}
 
-{{<figure src="/img/covers/FanfareForAJester.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fanfare-for-a-jester" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:1vmQpRTn5cEziwG73r9ccN">}}
 
 
