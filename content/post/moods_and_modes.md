@@ -42,5 +42,5 @@ You can also save the Spotify playlist with all the music of the project:
 | A harmonic minor | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} |
 | A minor mixed | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
 | Dorian mode, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
-| Dorian mode, minimalist mood | Stay tuned! |  |
-| Dorian mode, free jazz mood |  |  |
+| Dorian mode, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) |  |
+| Dorian mode, free jazz mood | Stay tuned! |  |
