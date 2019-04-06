@@ -42,6 +42,7 @@ The trumpet fanfares and the melodies played by the recorder are based on the Do
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}}
 {{<itunes link="https://itunes.apple.com/us/album/fanfare-for-a-jester-single/1456078883">}}
 {{<spotify link="https://open.spotify.com/track/1vmQpRTn5cEziwG73r9ccN?si=Omhv9ubVSxWq91YQPTGxVQ">}}
+{{<deezer link="https://www.deezer.com/album/90203112">}}
 
 {{<spotify_player_big uri="spotify:track:1vmQpRTn5cEziwG73r9ccN">}}
 
