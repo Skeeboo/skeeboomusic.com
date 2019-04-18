@@ -68,7 +68,7 @@ They, together with 3 pieces on the [major scale](/post/cmajor) are collected in
 
 ## Thanks for reading!
 
-If you like this project and my music, consider supporting my music and this project by:
+If you like this project and my music, consider supporting them by:
 
 1. Subscribing to my newsletter. By doing so, you will be informed of every new release, ang get a [free download of Sail Away, the second track of the project](https://mailchi.mp/f6a12b953721/sailaway)
 2. Download from Bandcamp [the tracks of the project](https://skeeboo.bandcamp.com/) directly supporting my music (Thank you!!)
