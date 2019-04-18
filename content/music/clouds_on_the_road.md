@@ -37,6 +37,6 @@ caption = ""
 It's a minimalist piece for piano and strings inspired by a trip on a road under fast moving clouds. 
 The melody is in Dorian mode, a versatile scale I used also in [Fanfare for a Jester](/music/fanfare_for_a_jester). I find it serious but less melancholic than minor mode, and I plan to create at least another track (in another mood) with it before moving to a different one. Enjoy!
 
-
+{{<bandcamp title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}}
 
 

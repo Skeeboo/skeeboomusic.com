@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Newsletter: download free music and joi
 +++
 
 
-{{<figure src="/img/covers/FanfareForAJester.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fanfare-for-a-jester" target="_blank">}}
+{{<figure src="/img/covers/CloudsOnTheRoad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/clouds-on-the-road" target="_blank">}}
 
-{{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}}
+{{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}}
