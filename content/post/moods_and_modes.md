@@ -2,7 +2,7 @@
 title = "Moods and Modes: the great plan"
 
 date = 2018-11-10T00:00:00
-lastmod = 2019-03-20T00:00:00
+lastmod = 2019-04-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -38,9 +38,9 @@ You can also save the Spotify playlist with all the music of the project:
 | [C major](/post/cmajor) | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | 
 | [C major](/post/cmajor) | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | 
 | [C major with blue note](/post/cmajor) | [Easy Goin'](/music/easy_goin) | {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}} | 
-| A natural minor | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} |
-| A harmonic minor | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} |
-| A minor mixed | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
+| [A natural minor](/post/minor_mode) | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} |
+| [A harmonic minor](/post/minor_mode) | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} |
+| [A minor mixed](/post/minor_mode) | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
 | Dorian mode, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
 | Dorian mode, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) |  |
 | Dorian mode, free jazz mood | Stay tuned! |  |

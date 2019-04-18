@@ -50,21 +50,21 @@ With an arrangement of Oud, Zither, middle eastern percussions and flute, that b
 
 {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}}
 
-## The joke
+## Mixed Mode
 
-Now let's try a little joke by spicing the C major scale with a "blue note". This idea came from the always inspiring method of improvisation "Create First" by [Forrest Kinney](https://forrestkinney.com). If you add a lowered third you get this mischievious 8-note scale:
+More often than not, the minor scales are used together, forming a melodic and harmonic palette united by a common "minor mood".
 
-{{<google_drive track="1xGkk9YmtI_t3ozN-oEeE_WgkSeH4sDoH">}}
+Here is a theme I wrote based on such "mixed" minor scale:
 
-Here's a melody I wrote with this hybrid scale, continuously drifting between a major and a minor mood:
+{{<google_drive track="1YwOT1xCpit4y6LF7QrrBzBJUtcCqvpQN">}}
 
-{{<google_drive track="19qpPX5s9WSWlW4YEpR0z4V0icuj2nSBP">}}
+I don't know why, but the melody reminded me of the atmospheres of the soundtrack of '70s horror movies, so I tried a retro synth rock arrangement for "The Sound of Past Moments":
 
-I gave the melody to a fiddle (to be honest, I imagined it played by a violin from the start) with the accompaniment of a small "speakeasy" jazz band. The result is "Easy Goin'":
+{{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}}
 
-{{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}}
+That's how the tracks number 10, 11 and 12 of my [Moods and Modes](/post/moods_and_modes) project were made. I'd really love to know [what you think about it](/#contact). 
+They, together with 3 pieces on the [major scale](/post/cmajor) are collected in the [Moods and Modes vol. II EP](/music/moods_and_modes_vol2), available on [Bandcamp](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-2)
 
-That's how the tracks number 7,8 and 9 of my [Moods and Modes](/post/moods_and_modes) project were made. I'd really love to know [what you think about it](/#contact). 
 
 ## Thanks for reading!
 
@@ -72,7 +72,7 @@ If you like this project and my music, consider supporting my music and this pro
 
 1. Subscribing to my newsletter. By doing so, you will be informed of every new release, ang get a [free download of Sail Away, the second track of the project](https://mailchi.mp/f6a12b953721/sailaway)
 2. Download from Bandcamp [the tracks of the project](https://skeeboo.bandcamp.com/) directly supporting my music (Thank you!!)
-3. Streaming, saving and adding to your playlists these tracks on Spotify: [Simple Dreams](https://open.spotify.com/track/3FKzlj0Y6uKFbt44NUBD8f) ; [Serenidad](https://open.spotify.com/track/6EcWL2pVmEiGQGN0TjkyLh) and [Easy Goin'](https://open.spotify.com/track/05ZIttR5M08nqAvObFfHUw)
+3. Streaming, saving and adding to your playlists these tracks on Spotify: {{<spotify_follow>}}
 4. Sharing this post with everyone you think may like it :)
 
-Stay tuned for the next releases! Coming next: A minor!
+Stay tuned for the next releases! Coming next: Dorian Mode!

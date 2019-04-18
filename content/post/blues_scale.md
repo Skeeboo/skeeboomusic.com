@@ -52,7 +52,7 @@ That's how the tracks number 3 and 4 of my ["Moods and Modes"](/#music) project 
 
 ## Thanks for reading!
 
-If you like this project and my music, consider supporting my music and this project by:
+If you like this project and my music, consider supporting them by:
 
 1. Subscribing to my newsletter. By doing so, you will be informed of every new release, ang get a [free download of For the Joy, the first track of the project](https://mailchi.mp/e3474bc5a036/for_the_joy)
 2. Download these track from bandcamp, supporting my music: [Geronimo](https://skeeboo.bandcamp.com/track/geronimo) and [Marilyn](https://skeeboo.bandcamp.com/track/marilyn)
