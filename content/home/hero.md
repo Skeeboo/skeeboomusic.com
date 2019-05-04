@@ -22,8 +22,8 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://mailchi.mp/f6a12b953721/sailaway"
-label = '<i class="fas fa-envelope"></i> Newsletter: download free music and join the family!'
+url = "https://mailchi.mp/fda650444a6c/serenidad"
+label = '<i class="fas fa-envelope"></i> Download free music and join the family!'
 
 +++
 
