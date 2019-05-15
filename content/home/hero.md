@@ -23,7 +23,7 @@ overlay_img = "hands3.png"
 
 [cta]
 url = "https://mailchi.mp/fda650444a6c/serenidad"
-label = '<i class="fas fa-envelope"></i> Download free music and join the family!'
+label = '<i class="fas fa-envelope"></i> Download free music'
 
 +++
 
