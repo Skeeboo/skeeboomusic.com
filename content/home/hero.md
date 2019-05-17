@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/CloudsOnTheRoad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/clouds-on-the-road" target="_blank">}}
+{{<figure src="/img/covers/DoorToElsewhere.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere" target="_blank">}}
 
-{{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}}
+{{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}

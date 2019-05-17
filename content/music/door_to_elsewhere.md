@@ -37,3 +37,9 @@ caption = ""
 It's a jazz piece for tenor sax, with a backing trio of drums, double bass and Rhodes piano. There was a time when the rediscover of old scales and modes seems to free jazz music once more and open doors for new musical places... 
 The melody and the short improvised part are both in Dorian mode.
 
+{{<bandcamp title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
+
+## Available from:
+
+{{<bandcamp_link link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
+{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere">}}

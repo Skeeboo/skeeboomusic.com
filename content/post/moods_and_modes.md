@@ -43,5 +43,5 @@ You can also save the Spotify playlist with all the music of the project:
 | [A minor mixed](/post/minor_mode) | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
 | Dorian mode, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
 | Dorian mode, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} |
-| Dorian mode, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) |  |
-| Dorian mode, ballad | Stay tuned! |  |
+| Dorian mode, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
+| Dorian mode, ballad mood| Stay tuned! |  |
