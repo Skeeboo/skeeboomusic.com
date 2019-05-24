@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available from May, 24th
-
 {{<figure src="/img/covers/DoorToElsewhere.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere" target="_blank">}}
 
 "Door to Elsewhere" is track number 15 of the ["Moods and modes" project](/post/moods_and_modes). 
@@ -42,4 +40,7 @@ The melody and the short improvised part are both in Dorian mode.
 ## Available from:
 
 {{<bandcamp_link link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
-{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere">}}
+{{<spotify link="https://open.spotify.com/track/4bjyBnPs5ZYrXthkt1hOX2">}}
+{{<itunes link="https://itunes.apple.com/us/album/door-to-elsewhere-single/1462415196">}}
+
+{{<spotify_player_big uri="spotify:track:4bjyBnPs5ZYrXthkt1hOX2">}}
