@@ -40,7 +40,8 @@ The melody and the short improvised part are both in Dorian mode.
 ## Available from:
 
 {{<bandcamp_link link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
-{{<spotify link="https://open.spotify.com/track/4bjyBnPs5ZYrXthkt1hOX2">}}
 {{<itunes link="https://itunes.apple.com/us/album/door-to-elsewhere-single/1462415196">}}
+{{<spotify link="https://open.spotify.com/track/4bjyBnPs5ZYrXthkt1hOX2">}}
+{{<deezer link="https://www.deezer.com/album/95674042">}}
 
 {{<spotify_player_big uri="spotify:track:4bjyBnPs5ZYrXthkt1hOX2">}}
