@@ -38,4 +38,9 @@ It's a gentle ballad for clarinet, flute and bassoon with a backing of strings, 
 
 This is my 4th and last exploration of the Dorian scale. The mood is soft, relaxed and a little ambiguous, just like when a gentle rain soften all the sounds outside...
 
+{{<bandcamp title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/gentle-rain">}}
 {{<spotify link="https://distrokid.com/hyperfollow/skeeboo/gentle-rain">}}

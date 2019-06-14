@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/DoorToElsewhere.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere" target="_blank">}}
+{{<figure src="/img/covers/GentleRain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/gentle-rain" target="_blank">}}
 
-{{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
+{{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}}

@@ -27,22 +27,22 @@ You can also save the Spotify playlist with all the music of the project:
 
 ## Moods and Modes: the Great Table
 
-| Scale or Mode | Track name | Stream and download | Remix |
-| --- | --- | --- | --- |
-| [Major Pentatonic](/post/pentatonics) | [For the Joy](/music/for_the_joy) | {{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}} | {{<bandcamp_small title="For the Joy - remix" track="869434254" link="https://skeeboo.bandcamp.com/track/for-the-joy-remix">}} |
-| [Minor Pentatonic](/post/pentatonics) | [Sail Away](/music/sail_away) | {{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}} |{{<bandcamp_small title="Sail Away - remix" track="1013655651" link="https://skeeboo.bandcamp.com/track/sail-away-remix">}} |
-| [Blues Scale, straight rhythm](/post/blues_scale) | [Geronimo](/music/geronimo) | {{<bandcamp_small title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}} | {{<bandcamp_small title="Geronimo - remix" track="2509891531" link="https://skeeboo.bandcamp.com/track/geronimo-remix">}}|  
-| [Blues Scale, swing rhythm](/post/blues_scale) | [Marilyn](/music/marilyn) | {{<bandcamp_small title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}} ||
-| [Major Pentascale](/post/pentascales) | [Sunrise on Mars](/music/sunrise_on_mars) | {{<bandcamp_small title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}} | |
-| [Minor Pentascale](/post/pentascales) | [Autumn Sunset](/music/autumn_sunset) | {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}} | |
-| [C major](/post/cmajor) | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | |
-| [C major](/post/cmajor) | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | |
-| [C major with blue note](/post/cmajor) | [Easy Goin'](/music/easy_goin) | {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}} | |
-| [A natural minor](/post/minor_mode) | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} ||
-| [A harmonic minor](/post/minor_mode) | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} ||
-| [A minor mixed](/post/minor_mode) | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} ||
-| Dorian mode, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} ||
-| Dorian mode, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} ||
-| Dorian mode, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} ||
-| Dorian mode, ballad mood | [Gentle Rain](/music/gentle_rain) |  ||
-| Lydian mode | Coming Soon! |  ||
+| Scale or Mode | Track name | Stream and download |
+| --- | --- | --- | 
+| [Major Pentatonic](/post/pentatonics) | [For the Joy](/music/for_the_joy) | {{<bandcamp_small title="For the Joy" track="694435819" link="http://skeeboo.bandcamp.com/track/for-the-joy">}} | 
+| [Minor Pentatonic](/post/pentatonics) | [Sail Away](/music/sail_away) | {{<bandcamp_small title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}} |
+| [Blues Scale, straight rhythm](/post/blues_scale) | [Geronimo](/music/geronimo) | {{<bandcamp_small title="Geronimo" track="2220007958" link="http://skeeboo.bandcamp.com/track/geronimo">}} | 
+| [Blues Scale, swing rhythm](/post/blues_scale) | [Marilyn](/music/marilyn) | {{<bandcamp_small title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}} |
+| [Major Pentascale](/post/pentascales) | [Sunrise on Mars](/music/sunrise_on_mars) | {{<bandcamp_small title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}} | 
+| [Minor Pentascale](/post/pentascales) | [Autumn Sunset](/music/autumn_sunset) | {{<bandcamp_small title="Autumn Sunset" track="1497396" link="https://skeeboo.bandcamp.com/track/autumn-sunset">}} | 
+| [C major](/post/cmajor) | [Simple Dreams](/music/simple_dreams) | {{<bandcamp_small title="Simple Dreams" track="2051252705" link="http://skeeboo.bandcamp.com/track/simple-dreams">}} | 
+| [C major](/post/cmajor) | [Serenidad](/music/serenidad) | {{<bandcamp_small title="Serenidad" track="35792932" link="https://skeeboo.bandcamp.com/track/serenidad">}} | 
+| [C major with blue note](/post/cmajor) | [Easy Goin'](/music/easy_goin) | {{<bandcamp_small title="Easy Goin'" track="3013165940" link="https://skeeboo.bandcamp.com/track/easy-goin">}} | 
+| [A natural minor](/post/minor_mode) | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} |
+| [A harmonic minor](/post/minor_mode) | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} |
+| [A minor mixed](/post/minor_mode) | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
+| Dorian mode, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
+| Dorian mode, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} |
+| Dorian mode, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
+| Dorian mode, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
+| Lydian mode | Coming Soon! |  |
