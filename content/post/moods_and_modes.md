@@ -45,4 +45,5 @@ You can also save the Spotify playlist with all the music of the project:
 | Dorian, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} |
 | Dorian, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
 | Dorian, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
-| Lydian | Coming Soon! |  |
+| Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  |
+| Lydian, ambient | Coming Soon! |  |
