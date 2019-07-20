@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/GentleRain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/gentle-rain" target="_blank">}}
+{{<figure src="/img/covers/LiaisonsDangereuses.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/liaisons-dangereuses" target="_blank">}}
 
-{{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}}
+{{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}}

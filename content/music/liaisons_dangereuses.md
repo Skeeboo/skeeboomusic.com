@@ -37,3 +37,12 @@ caption = ""
 It's a soft waltz ballad for strings and piano with drums and double bass. The central section is a swing piano improvisation. It's the tale of a strange attraction between musical genres. 
 
 This is my first exploration of the Lydian scale. The mood is positive and forward looking, and I hope you'll find some peace and a smile in it.
+
+{{<bandcamp title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}}
+{{<itunes link="https://music.apple.com/us/album/liaisons-dangereuses-single/1470795273">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07TSYB1YK">}}
+{{<spotify link="https://distrokid.com/hyperfollow/skeeboo/liaisons-dangereuses">}}
