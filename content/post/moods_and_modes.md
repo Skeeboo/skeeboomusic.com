@@ -46,4 +46,5 @@ You can also save the Spotify playlist with all the music of the project:
 | Dorian, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
 | Dorian, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
 | Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  {{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}} |
-| Lydian, ambient | Coming Soon! |  |
+| Lydian, ambient | [Summer Sky](/music/summer_sky) |  |
+| Phrygyan, spanish feel | Coming soon! |  |
