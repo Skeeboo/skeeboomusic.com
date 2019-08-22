@@ -38,6 +38,8 @@ It's an ambient track inspired by the stillness of the summer sky. Piano, guitar
 
 The melodies are based on the Lydian scale and it overwordly serene mood.
 
+{{<bandcamp title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
+
 ## Presave 
 
 If you like to be reminded by Spotify when the track will be live, click on the image below and follow the link on the page:
