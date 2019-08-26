@@ -14,7 +14,7 @@ summary = "All Moods and Modes music in a single table"
 
 +++
 
-"Moods and Modes" is my current musical project. Its purpose is to explore the feelings that the different musical scales and modes inspire (to me) by composing a collection of short instrumental tracks. The pieces are inpired  by a wonderful improvisation by [Forrest Kinney](https://forrestkinney.com)
+"Moods and Modes" is my current musical project. Its purpose is to explore the feelings that the different musical scales and modes inspire (to me) by composing a collection of short instrumental tracks. The pieces are inpired  by the wonderful improvisation method devised by [Forrest Kinney](https://forrestkinney.com)
 
 The table below will be regularly updated with the new scales explored, the new music composed, and all important things related.
 
