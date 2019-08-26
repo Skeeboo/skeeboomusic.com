@@ -14,11 +14,11 @@ summary = "All Moods and Modes music in a single table"
 
 +++
 
-"Moods and Modes" is my current musical project. Its purpose is to explore the feelings that the different musical scales and modes inspire (to me) by composing a collection of short instrumental tracks.
+"Moods and Modes" is my current musical project. Its purpose is to explore the feelings that the different musical scales and modes inspire (to me) by composing a collection of short instrumental tracks. The pieces are inpired  by a wonderful improvisation by [Forrest Kinney](https://forrestkinney.com)
 
 The table below will be regularly updated with the new scales explored, the new music composed, and all important things related.
 
-The best way to keep updated is to subscribe to the newsletter (and get some free music by doing so) [by clicking here](https://mailchi.mp/f6a12b953721/sailaway).
+The best way to keep updated is to subscribe to the newsletter (and get some free music by doing so) [by clicking here](https://mailchi.mp/d761d0e2ad87/glimmer).
 
 You can also save the Spotify playlist with all the music of the project:
 
