@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available Aug, 30th
-
 {{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
 
 "Summer Sky" is track number 18 of the ["Moods and modes" project](/post/moods_and_modes). 
@@ -40,8 +38,11 @@ The melodies are based on the Lydian scale and it overwordly serene mood.
 
 {{<bandcamp title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
 
-## Presave 
+## Available from: 
 
-If you like to be reminded by Spotify when the track will be live, click on the image below and follow the link on the page:
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/summer-sky">}}
+{{<itunes link="https://music.apple.com/us/album/summer-sky-single/1475221730">}}
+{{<amazon link="http://www.amazon.com/gp/product/B07VVQCK1J">}}
+{{<spotify link="https://open.spotify.com/track/7zo86Jw5qryBzLrLW5os7E">}}
 
-{{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:7zo86Jw5qryBzLrLW5os7E">}}
