@@ -47,4 +47,5 @@ You can also save the Spotify playlist with all the music of the project:
 | Dorian, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
 | Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  {{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}} |
 | Lydian, ambient | [Summer Sky](/music/summer_sky) | {{<bandcamp_small title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}} |
-| Phrygyan, spanish tinge | Coming soon! |  |
+| Phrygyan, spanish tinge | [Duende](/music/duende) |  |
+| Phrygyan, insen scale | coming soon! |  |
