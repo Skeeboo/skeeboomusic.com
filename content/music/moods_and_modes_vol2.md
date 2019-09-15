@@ -3,10 +3,10 @@
 date = 2019-03-02T00:00:00
 
 # Project title.
-title = "Moods and Modes, vol. 2"
+title = "Moods and Modes, vol. II"
 
 # Project summary to display on homepage.
-summary = "Exclusive EP on Bandcamp"
+summary = "C major - A minor collection"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "covers/volII.jpg"

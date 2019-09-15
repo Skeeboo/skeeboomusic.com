@@ -3,7 +3,7 @@
 date = 2018-11-14T00:00:00
 
 # Project title.
-title = "Moods and Modes, vol. 1"
+title = "Moods and Modes, vol. I"
 
 # Project summary to display on homepage.
 summary = "EP - Free download"

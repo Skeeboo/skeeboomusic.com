@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
+{{<figure src="/img/covers/volIII.jpg" width="320" link="https://skeeboo.bandcamp.com/album/moods-and-modes-vol-iii" target="_blank">}}
 
 {{<bandcamp_small title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
