@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available starting from Sept, 27th: 
-
 {{<figure src="/img/covers/Duende.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/duende" target="_blank">}}
 
 "Duende" is track number 19 of the ["Moods and modes" project](/post/moods_and_modes). 
@@ -40,13 +38,10 @@ The melody is in E Phrygian mode, with a "spanish tinge".
 
 {{<bandcamp title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}}
 
-## Pre-save it now 
-
-If you pre-save the track on Spotify, you'll be remainded on release day. To do that, click on the cover and follow the simple instructions.
-
-{{<figure src="/img/covers/Duende.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/duende" target="_blank">}}
-
 ## Available from:
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/duende">}}
 {{<itunes link="https://music.apple.com/us/album/duende-single/1478770663">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07XF1H9FX">}}
+{{<spotify link="https://open.spotify.com/track/1TqkCiSyNrsjvudPeMJi1u">}}
+
+{{<spotify_player_big uri="spotify:track:1TqkCiSyNrsjvudPeMJi1u">}}
