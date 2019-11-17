@@ -41,11 +41,12 @@ You can also save the Spotify playlist with all the music of the project:
 | [A natural minor](/post/minor_mode) | [A Glimmer of Hope](/music/a_glimmer_of_hope) | {{<bandcamp_small title="A Glimmer of Hope" track="2899574957" link="https://skeeboo.bandcamp.com/track/a-glimmer-of-hope">}} |
 | [A harmonic minor](/post/minor_mode) | [Scheherazade](/music/scheherazade) | {{<bandcamp_small title="Scheherazade" track="3491916086" link="http://skeeboo.bandcamp.com/track/scheherazade">}} |
 | [A minor mixed](/post/minor_mode) | [Sound of Past Moments](/music/sound_of_past_moments) | {{<bandcamp_small title="Sound of Past Moments" track="1405956091" link="https://skeeboo.bandcamp.com/track/sound-of-past-moments">}} |
-| Dorian, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
-| Dorian, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} |
-| Dorian, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
-| Dorian, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
-| Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  {{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}} |
-| Lydian, ambient | [Summer Sky](/music/summer_sky) | {{<bandcamp_small title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}} |
-| Phrygyan, spanish tinge | [Duende](/music/duende) | {{<bandcamp_small title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}} |
-| Phrygyan, insen scale | coming soon! |  |
+| D Dorian, renaissance mood | [Fanfare for a Jester](/music/fanfare_for_a_jester) | {{<bandcamp_small title="Fanfare for a Jester" track="3310948898" link="https://skeeboo.bandcamp.com/track/fanfare-for-a-jester">}} |
+| D Dorian, minimalist mood | [Clouds on the Road](/music/clouds_on_the_road) | {{<bandcamp_small title="Clouds on the Road" track="1619125389" link="http://skeeboo.bandcamp.com/track/clouds-on-the-road">}} |
+| D Dorian, free jazz mood | [Door to Elsewhere](/music/door_to_elsewhere) | {{<bandcamp_small title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}} |
+| D Dorian, ballad mood | [Gentle Rain](/music/gentle_rain) | {{<bandcamp_small title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}} |
+| F Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  {{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}} |
+| F Lydian, ambient | [Summer Sky](/music/summer_sky) | {{<bandcamp_small title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}} |
+| E Phrygyan, spanish tinge | [Duende](/music/duende) | {{<bandcamp_small title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}} |
+| E Phrygyan, insen scale | [Kurai Umi](/music/kurai_umi) |  |
+| G Mixolydian, celtic mood|stay tuned!||
