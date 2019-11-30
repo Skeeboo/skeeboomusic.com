@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/Duende.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/duende" target="_blank">}}
+{{<figure src="/img/covers/KuraiUmi.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/kurai-umi" target="_blank">}}
 
-{{<bandcamp_small title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}}
+{{<bandcamp_small title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}}

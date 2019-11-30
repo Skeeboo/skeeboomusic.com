@@ -38,7 +38,13 @@ The piece is a trip to a "Japan of the mind" (since sadly I've never been there)
 
 The melody is in the Insen pentatonic scale, somewhat similar to the E Phrygian mode.
 
-If you want to be alerted when the track will be online, click on the cover below and follow the instructions. See you in a couple of weeks!
+{{<bandcamp title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}}
 
 ## Upcoming release on Dec, 6th
+
+If you want to be alerted when the track will be online on your preferred store, click on the cover below and follow the instructions. Thank you!
+
 {{<figure src="/img/covers/KuraiUmi.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/kurai-umi" target="_blank">}}
+
+{{<itunes link="https://music.apple.com/us/album/kurai-umi-single/1488258429">}}
+

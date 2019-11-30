@@ -48,5 +48,5 @@ You can also save the Spotify playlist with all the music of the project:
 | F Lydian, waltz | [Liaisons Dangereuses](/music/liaisons_dangereuses) |  {{<bandcamp_small title="Liaisons Dangereuses" track="1767801112" link="https://skeeboo.bandcamp.com/track/liaisons-dangereuses">}} |
 | F Lydian, ambient | [Summer Sky](/music/summer_sky) | {{<bandcamp_small title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}} |
 | E Phrygyan, spanish tinge | [Duende](/music/duende) | {{<bandcamp_small title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}} |
-| E Phrygyan, insen scale | [Kurai Umi](/music/kurai_umi) |  |
+| E Phrygyan, insen scale | [Kurai Umi](/music/kurai_umi) | {{<bandcamp_small title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}} |
 | G Mixolydian, celtic mood|stay tuned!||
