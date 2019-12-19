@@ -34,7 +34,7 @@ caption = ""
 
 "Ceilidh" is track number 21 of the ["Moods and modes" project](/post/moods_and_modes). 
 
-The track is a celtic Jig that starts as a folk tune lead by a tin whistle and ends as a symphonic piece shepherd by a masterfully played violin.   
+The track is a celtic Jig that starts as a folk tune lead by a tin whistle and ends as a symphonic piece shepherd by a violin, masterfully played by Valentina Borgato.   
 
 The melody swings between the G Mixolydian (the merry phrase) and D Dorian modes (the somber one).
 
