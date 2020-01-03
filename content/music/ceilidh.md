@@ -38,6 +38,8 @@ The track is a celtic Jig that starts as a folk tune lead by a tin whistle and e
 
 The melody swings between the G Mixolydian (the merry phrase) and D Dorian modes (the somber one).
 
+{{<bandcamp title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}
+
 This piece will be available on Jan 7th 2020; if you want to be notified just click on the cover below!
 
 {{<figure src="/img/covers/Ceilidh.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/ceilidh" target="_blank">}}

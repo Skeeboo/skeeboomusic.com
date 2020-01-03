@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/KuraiUmi.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/kurai-umi" target="_blank">}}
+{{<figure src="/img/covers/Ceilidh.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/ceilidh" target="_blank">}}
 
-{{<bandcamp_small title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}}
+{{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}
