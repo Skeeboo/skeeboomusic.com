@@ -16,6 +16,8 @@
     <a class="btn btn-primary btn-outline" href="{{ . }}" target="_blank" rel="noopener">{{ i18n "open_project_site" }}</a>
     {{ end }}
 
+    {{ partial "share.html" $ }}
+
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
