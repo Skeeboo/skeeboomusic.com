@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available on Jan, 7th
-
 {{<figure src="/img/covers/Ceilidh.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/ceilidh" target="_blank">}}
 
 "Ceilidh" is track number 21 of the ["Moods and modes" project](/post/moods_and_modes). 
@@ -40,6 +38,9 @@ The melody swings between the G Mixolydian (the merry phrase) and D Dorian modes
 
 {{<bandcamp title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}
 
-This piece will be available on Jan 7th 2020; if you want to be notified just click on the cover below!
+## Available from:
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/ceilidh">}}
+{{<itunes link="https://music.apple.com/us/album/ceilidh-single/1491665630">}}
+{{<spotify link="https://spoti.fi/37yTY0y">}}
 
-{{<figure src="/img/covers/Ceilidh.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/ceilidh" target="_blank">}}
+{{<spotify_player_big uri="spotify:track:0YNBu1ghVkD4xwi8WTQo8Y">}}
