@@ -6,7 +6,7 @@ date = 2019-11-17T00:00:00
 title = "Ceilidh"
 
 # Project summary to display on homepage.
-summary = "A new take on a celtic jig"
+summary = "A new take on a celtic jig in G mixolydian"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "covers/Ceilidh.jpg"
@@ -40,7 +40,8 @@ The melody swings between the G Mixolydian (the merry phrase) and D Dorian modes
 
 ## Available from:
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/ceilidh">}}
-{{<itunes link="https://music.apple.com/us/album/ceilidh-single/1491665630">}}
 {{<spotify link="https://spoti.fi/37yTY0y">}}
+{{<itunes link="https://music.apple.com/us/album/ceilidh-single/1491665630">}}
+{{<globe link="https://song.link/VcKxPTPhPNtTp">}}
 
 {{<spotify_player_big uri="spotify:track:0YNBu1ghVkD4xwi8WTQo8Y">}}
