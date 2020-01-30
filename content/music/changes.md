@@ -46,9 +46,11 @@ Piano - Francesco Schibuola
 
 Recording Engineer - Massimiliano Salvan
 
+{{<bandcamp title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}}
+
 ## Presave
 
-"Changes" will be pre-released on Bandcamp on Jan,31st and released on every major outlet on Feb, 7th.
+"Changes" has been released on Bandcamp on Jan,31st and will be released on every major outlet on Feb, 7th.
 
 If you'd like to be reminded of these dates, just click on the cover art below and follow the Spotify button on the next page. See you soon!
 

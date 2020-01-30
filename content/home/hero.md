@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/Ceilidh.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/ceilidh" target="_blank">}}
+{{<figure src="/img/covers/Changes.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/changes" target="_blank">}}
 
-{{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}
+{{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}}
