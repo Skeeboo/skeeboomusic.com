@@ -28,9 +28,7 @@ caption = ""
 
 +++
 
-## Releases on February, 7th
-
-{{<figure src="/img/covers/Changes.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/changes" target="_blank">}}
+{{<bandcamp title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}}
 
 "Changes" is about those subtle movements that may alter your feelings and perceptions. 
 An ostinato motif on the viola changes its meaning thanks to the efforts of a flute over an electronic background.
@@ -46,12 +44,12 @@ Piano - Francesco Schibuola
 
 Recording Engineer - Massimiliano Salvan
 
-{{<bandcamp title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}}
-
-## Presave
-
-"Changes" has been released on Bandcamp on Jan,31st and will be released on every major outlet on Feb, 7th.
-
-If you'd like to be reminded of these dates, just click on the cover art below and follow the Spotify button on the next page. See you soon!
-
 {{<figure src="/img/covers/Changes.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/changes" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/changes">}}
+{{<spotify link="https://spoti.fi/39cLM6N">}}
+{{<itunes link="https://music.apple.com/us/album/changes-single/1495775988">}}
+
+{{<spotify_player_big uri="spotify:track:27NapiDe7fZh3ew4u6ItgP">}}
