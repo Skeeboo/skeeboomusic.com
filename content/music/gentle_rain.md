@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-{{<figure src="/img/covers/GentleRain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/gentle-rain" target="_blank">}}
+{{<bandcamp title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}}
 
 "Gentle Rain" is track number 16 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -36,7 +36,7 @@ It's a gentle ballad for clarinet, flute and bassoon with a backing of strings, 
 
 This is my 4th and last exploration of the Dorian scale. The mood is soft, relaxed and a little ambiguous, just like when a gentle rain soften all the sounds outside...
 
-{{<bandcamp title="Gentle Rain" track="3130573270" link="https://skeeboo.bandcamp.com/track/gentle-rain">}}
+{{<figure src="/img/covers/GentleRain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/gentle-rain" target="_blank">}}
 
 ## Available from:
 

@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-{{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
+{{<bandcamp title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
 
 "Summer Sky" is track number 18 of the ["Moods and modes" project](/post/moods_and_modes). 
 
@@ -36,7 +36,7 @@ It's an ambient track inspired by the stillness of the summer sky. Piano, guitar
 
 The melodies are based on the Lydian scale and it overwordly serene mood.
 
-{{<bandcamp title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
+{{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
 
 ## Available from: 
 

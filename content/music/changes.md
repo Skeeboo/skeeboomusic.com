@@ -51,5 +51,6 @@ Recording Engineer - Massimiliano Salvan
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/changes">}}
 {{<spotify link="https://spoti.fi/39cLM6N">}}
 {{<itunes link="https://music.apple.com/us/album/changes-single/1495775988">}}
+{{<globe link="https://song.link/tqz4nndnfpspm">}}
 
 {{<spotify_player_big uri="spotify:track:27NapiDe7fZh3ew4u6ItgP">}}

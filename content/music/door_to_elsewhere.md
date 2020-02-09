@@ -28,14 +28,17 @@ caption = ""
 
 +++
 
-{{<figure src="/img/covers/DoorToElsewhere.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere" target="_blank">}}
+{{<bandcamp title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
 
 "Door to Elsewhere" is track number 15 of the ["Moods and modes" project](/post/moods_and_modes). 
 
 It's a jazz piece for tenor sax, with a backing trio of drums, double bass and Rhodes piano. There was a time when the rediscover of old scales and modes seems to free jazz music once more and open doors for new musical places... 
 The melody and the short improvised part are both in Dorian mode.
 
-{{<bandcamp title="Door to Elsewhere" track="3269643760" link="http://skeeboo.bandcamp.com/track/door-to-elsewhere">}}
+> "a saxophone-dominated piece of jazz mixing it with an aura of Drum’n’Bass"
+> - [TRUST The DOC blog #41](https://demerararecords.com/trust-the-doc-edition-41/)
+
+{{<figure src="/img/covers/DoorToElsewhere.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/door-to-elsewhere" target="_blank">}}
 
 ## Available from:
 
