@@ -51,4 +51,5 @@ You can also save the Spotify playlist with all the music of the project:
 | E Phrygyan, insen scale | [Kurai Umi](/music/kurai_umi) | {{<bandcamp_small title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}} |
 | G Mixolydian, celtic mood| [Ceilidh](/music/ceilidh) | {{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}|
 | B locrian | [Changes](/music/changes) | {{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}} |
-| C major Blues |stay tuned!||
+| C major Blues | [Don't Worry](/music/dont_worry) ||
+| A Blues |stay tuned!||
