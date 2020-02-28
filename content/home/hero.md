@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Download free music'
 +++
 
 
-{{<figure src="/img/covers/Changes.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/changes" target="_blank">}}
+{{<figure src="/img/covers/DontWorry.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/dont-worry" target="_blank">}}
 
-{{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}}
+{{<bandcamp_small title="Don't Worry" track="815735371" link="https://skeeboo.bandcamp.com/track/dont-worry">}}
