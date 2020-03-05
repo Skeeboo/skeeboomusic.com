@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Releases March 6, 2020
-
 {{<bandcamp title="Don't Worry" track="815735371" link="https://skeeboo.bandcamp.com/track/dont-worry">}}
 
 Sometimes you just have to let it go. A carefree swing track like "Don't Worry" may be just what you need then. 
@@ -37,7 +35,12 @@ A trumpet (with and without mute) takes it easy together with a clarinet over th
 
 This 23rd composition of the ["Moods and modes" project](/post/moods_and_modes) explores the C major blues scale. At my ears it's the scale of the serene acceptance and embrace of life, with its peaks and valleys.
 
-## Pre-save
-The track will be available on every major digital outlet on March 6th, 2020 with a Bandcamp only preview on Feb 28th. In the meantime, you can pre-save it on Spotify clicking on the cover below
-
 {{<figure src="/img/covers/DontWorry.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/dont-worry" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/dont-worry">}}
+{{<spotify link="https://spoti.fi/3axfGU9">}}
+{{<itunes link="https://music.apple.com/us/album/dont-worry-single/1498524995">}}
+
+{{<spotify_player_big uri="spotify:track:2Gc6WIDVnAQna96klzQRmx">}}
