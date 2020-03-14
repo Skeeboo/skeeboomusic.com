@@ -52,4 +52,5 @@ You can also save the Spotify playlist with all the music of the project:
 | G Mixolydian, celtic mood| [Ceilidh](/music/ceilidh) | {{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}|
 | B locrian | [Changes](/music/changes) | {{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}} |
 | C major Blues | [Don't Worry](/music/dont_worry) | {{<bandcamp_small title="Don't Worry" track="815735371" link="https://skeeboo.bandcamp.com/track/dont-worry">}} |
-| A Blues |stay tuned!||
+| A Blues |[No More Fears](/music/no_more_fears)||
+| G major | Stay tuned! ||

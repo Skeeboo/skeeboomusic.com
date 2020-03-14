@@ -42,5 +42,6 @@ This 23rd composition of the ["Moods and modes" project](/post/moods_and_modes) 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/dont-worry">}}
 {{<spotify link="https://spoti.fi/3axfGU9">}}
 {{<itunes link="https://music.apple.com/us/album/dont-worry-single/1498524995">}}
+{{<globe link="https://song.link/9r4DMKx78qXSS">}}
 
 {{<spotify_player_big uri="spotify:track:2Gc6WIDVnAQna96klzQRmx">}}
