@@ -30,9 +30,9 @@ caption = ""
 
 ## Available April 3, 2020
 
-{{<figure src="/img/covers/NoMoreFears.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/no-more-fears" target="_blank">}}
+{{<bandcamp title="No More Fears" track="2434422280" link="https://skeeboo.bandcamp.com/track/no-more-fears">}}
 
-One way to face your troubles is to assert your will and fight back. "No More Fears" is a small rock anthem in that vein. <br/>
+One way to face our troubles is to assert our will and fight back. "No More Fears" is a small rock anthem in that vein. <br/>
 Confronted by a cocky horns section, the lead flute becomes progressively more assertive, supported by a dense arrangement featuring a string section, piano, hammond organ, drums and percussions. 
 
 This 24th composition of the ["Moods and modes" project](/post/moods_and_modes) explores the A minor blues scale. The blues scale can be mournful, but I wanted to prove it can be assertive too.
@@ -46,7 +46,6 @@ Massimiliano Salvan - Recording Engineer
 ## Pre-save
 
 The piece will be available on the digital stores on Apr, 3rd.
-A preview will be available on my Bandcamp site on March, 27th.
 If you'd like to spread some love and be alerted when it goes live, just click on the cover below and follow the instructions:
 
 {{<figure src="/img/covers/NoMoreFears.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/no-more-fears" target="_blank">}}

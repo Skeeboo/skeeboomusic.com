@@ -35,10 +35,10 @@ weight = 5
 
 # Welcome!
 
-I am an italian amateur composer and arranger. 
+I am an italian composer and arranger. 
 
-My current project is ["Moods and Modes"](/post/moods_and_modes): a collection of short instrumental tracks exploring different musical scales and modes. Have a look at the [music section](#music) of the website to find out more!
+My main current project is ["Moods and Modes"](/post/moods_and_modes): a collection of short instrumental tracks exploring different musical scales and modes. Have a look at the [music section](#music) of the website to find out more!
 
-All the tracks are heavily influenced by the inspiring improvisation method of [Forrest Kinney](https://forrestkinney.com)
+All the tracks are heavily influenced by the inspiring improvisation method of the late [Forrest Kinney](https://forrestkinney.com)
 
 {{<spotify_follow>}}
