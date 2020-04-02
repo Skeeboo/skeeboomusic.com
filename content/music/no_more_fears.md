@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available April 3, 2020
-
 {{<bandcamp title="No More Fears" track="2434422280" link="https://skeeboo.bandcamp.com/track/no-more-fears">}}
 
 One way to face our troubles is to assert our will and fight back. "No More Fears" is a small rock anthem in that vein. <br/>
@@ -43,9 +41,12 @@ Valentina Borgato - 1st and 2nd Violin, Viola
 
 Massimiliano Salvan - Recording Engineer
 
-## Pre-save
-
-The piece will be available on the digital stores on Apr, 3rd.
-If you'd like to spread some love and be alerted when it goes live, just click on the cover below and follow the instructions:
-
 {{<figure src="/img/covers/NoMoreFears.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/no-more-fears" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/no-more-fears">}}
+{{<spotify link="https://spoti.fi/2UWk3BX">}}
+{{<itunes link="https://music.apple.com/us/album/no-more-fears-single/1502707998">}}
+
+{{<spotify_player_big uri="spotify:track:1308O7MVwXjONIit9WB6ho">}}
