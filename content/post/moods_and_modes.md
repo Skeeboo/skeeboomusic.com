@@ -16,7 +16,7 @@ summary = "the Great Plan"
 
 "Moods and Modes" is my current main musical project; its purpose is to explore the feelings that the different musical scales and modes inspire (to me) by composing a collection of short instrumental tracks. The pieces are inspired  by the wonderful improvisation method devised by the late [Forrest Kinney](https://forrestkinney.com).
 
-The best way to keep you up to date for the project is to leave your email address in the form below and I will send you a monthly update with some insight and background on every new song: </br>
+The best way to keep you up to date on the project is to leave your email address in the form below and I will send you a monthly update with some insight and background on every new song: </br>
 {{<mail_form>}}
 
 I have also collected all the pieces in a single Spotify playlist which you can save to your library if you like: </br>

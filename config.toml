@@ -249,6 +249,21 @@ enableGitInfo = false
     icon_pack = "fab"
     link = "https://twitter.com/SkeebooM"
 
+  [[params.social]]
+    icon = "instagram"
+    icon_pack = "fab"
+    link = "https://www.instagram.com/skeeboom/"
+
+   [[params.social]]
+    icon = "facebook"
+    icon_pack = "fab"
+    link = "https://www.facebook.com/skeebooM/"
+
+    [[params.social]]
+     icon = "soundcloud"
+     icon_pack = "fab"
+     link = "https://soundcloud.com/skeeboo-1"
+
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
   # [[params.social]]
@@ -279,10 +294,10 @@ enableGitInfo = false
   url = "#music"
   weight = 3
 
-[[menu.main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 4
+#[[menu.main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 4
 
 #[[menu.main]]
 #  name = "Playlists"
@@ -294,10 +309,10 @@ enableGitInfo = false
   url = "#contact"
   weight = 6
 
-[[menu.main]]
-  name = "Free Download"
-  url = "https://thehusk.ca/fan.asp?t=20446"
-  weight = 7
+#[[menu.main]]
+#  name = "Free Download"
+#  url = "https://thehusk.ca/fan.asp?t=20446"
+#  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

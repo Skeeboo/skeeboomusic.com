@@ -32,7 +32,7 @@ caption = ""
 
 {{<figure src="/img/covers/OilAndWater.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/oil-and-water" target="_blank">}}
 
-"Oil and Water" is the first piece of my new Tableaux Électronique project.</br>
+"Oil and Water" is the first piece of my new [Tableaux Électronique](/post/tableaux_electroniques) project.</br>
 This track is marked by some stark contrasts: between acoustic and electronic instruments, between fast and slow sections, between swing and straight rhythms.</br>
 These contrasts won't blend, but they will come to a sort of uneasy cohabitation, just like oil and water sometimes do.
 
