@@ -304,15 +304,15 @@ enableGitInfo = false
 #  url = "#playlists"
 #  weight = 5
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
-
 #[[menu.main]]
-#  name = "Free Download"
-#  url = "https://thehusk.ca/fan.asp?t=20446"
-#  weight = 7
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 6
+
+[[menu.main]]
+  name = "Let's keep in touch!"
+  url = "https://mailchi.mp/24b27fb6e70e/skeeboo_signup"
+  weight = 7
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

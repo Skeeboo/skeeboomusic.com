@@ -43,6 +43,7 @@ filter_default = 0
 
 +++
 
-["Moods and modes"](post/moods_and_modes) is my current project: a collection of short instrumental tracks, each one exploring a different musical scale or mode and the feelings they inspire. 
+Ongoing projects:
 
-Expect a new track every month. Enjoy! 
+* [Moods and modes](post/moods_and_modes)
+* [Tableaux Électroniques](/post/tableaux_electroniques)
