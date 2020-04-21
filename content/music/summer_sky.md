@@ -30,15 +30,20 @@ caption = ""
 
 {{<bandcamp title="Summer Sky" track="49268507" link="https://skeeboo.bandcamp.com/track/summer-sky">}}
 
-"Summer Sky" is track number 18 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Summer Sky" is track number 18 of the ["Moods and modes" project](/post/moods_and_modes).
 
 It's an ambient track inspired by the stillness of the summer sky. Piano, guitar and a music box contribute to the atmosphere.  
 
-The melodies are based on the Lydian scale and it overwordly serene mood.
+The melodies are based on the Lydian scale and its overwordly serene mood.
 
-{{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}}
+## Remix
 
-## Available from: 
+The track has also been remixed by [Letters from Mouse](https://lettersfrommouse.bandcamp.com) using found sound percussions.
+The remixed version is available as a hidden bonus track exclusively on the Bandcamp version of ["Moods and Modes vol. III"](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-iii) EP.
+
+<!-- {{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}} -->
+
+## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/summer-sky">}}
 {{<itunes link="https://music.apple.com/us/album/summer-sky-single/1475221730">}}
