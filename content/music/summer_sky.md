@@ -39,7 +39,7 @@ The melodies are based on the Lydian scale and its overwordly serene mood.
 ## Remix
 
 The track has also been remixed by [Letters from Mouse](https://lettersfrommouse.bandcamp.com) using found sound percussions.
-The remixed version is available as a hidden bonus track exclusively on the Bandcamp version of ["Moods and Modes vol. III"](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-iii) EP.
+The remixed version is available as a hidden bonus track on the Bandcamp version of ["Moods and Modes vol. III"](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-iii) EP.
 
 <!-- {{<figure src="/img/covers/SummerSky.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/summer-sky" target="_blank">}} -->
 
@@ -51,3 +51,4 @@ The remixed version is available as a hidden bonus track exclusively on the Band
 {{<spotify link="https://open.spotify.com/track/7zo86Jw5qryBzLrLW5os7E">}}
 
 {{<spotify_player_big uri="spotify:track:7zo86Jw5qryBzLrLW5os7E">}}
+{{<spotify_player_big uri="spotify:track:5G7XDjwswJm8GXYA9Uia6a">}}
