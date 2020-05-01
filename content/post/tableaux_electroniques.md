@@ -35,4 +35,4 @@ Tracks based on themes taken from [Moods and Modes](/post/moods_and_modes) [Volu
 
 | Track name | Based on | Stream and download |
 | --- | --- | --- |
-| [Oil and Water](/music/oil_and_water) | [Marilyn](/music/marilyn) and <br/>  [Geronimo](/music/geronimo)| Releasing May 2020|
+| [Oil and Water](/music/oil_and_water) | [Marilyn](/music/marilyn) and <br/>  [Geronimo](/music/geronimo)| {{<bandcamp_small title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}|

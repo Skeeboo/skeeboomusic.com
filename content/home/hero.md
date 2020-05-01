@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/NoMoreFears.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/no-more-fears" target="_blank">}}
+{{<figure src="/img/covers/OilAndWater.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/oil-and-water" target="_blank">}}
 
-{{<bandcamp_small title="No More Fears" track="2434422280" link="https://skeeboo.bandcamp.com/track/no-more-fears">}}
+{{<bandcamp_small title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}

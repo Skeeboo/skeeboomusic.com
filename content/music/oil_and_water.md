@@ -28,9 +28,9 @@ caption = ""
 
 +++
 
-## Releasing in May
+## Releasing May, 8th
 
-{{<figure src="/img/covers/OilAndWater.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/oil-and-water" target="_blank">}}
+{{<bandcamp title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}
 
 "Oil and Water" is the first piece of my new [Tableaux Électronique](/post/tableaux_electroniques) project.</br>
 This track is marked by some stark contrasts: between acoustic and electronic instruments, between fast and slow sections, between swing and straight rhythms.</br>
@@ -38,8 +38,9 @@ These contrasts won't blend, but they will come to a sort of uneasy cohabitation
 
 "Oil and Water" emulsify two themes taken from previous [Moods and Modes](/post/moods_and_modes) pieces: [Marilyn](/music/marilyn) for the slow section and [Geronimo](/music/geronimo) for the fast one. Follow the links to hear the original versions.
 
-## Available starting May, 1st
+## Available starting May, 8th
 
+Yet available to stream and download from [Bandcamp](https://skeeboo.bandcamp.com/track/oil-and-water), it will be on every other digital outlet on May, 8th.
 Feel free to click on the cover below and pre-save the piece on Spotify!
 
 {{<figure src="/img/covers/OilAndWater.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/oil-and-water" target="_blank">}}
