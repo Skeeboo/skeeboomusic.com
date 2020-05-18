@@ -30,9 +30,10 @@ caption = ""
 
 {{<bandcamp title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}
 
-"Oil and Water" is the first piece of my new [Tableaux Électronique](/post/tableaux_electroniques) project.</br>
+"Oil and Water" is the first piece of my new [Tableaux Électroniques](/post/tableaux_electroniques) project.</br>
 This track is marked by some stark contrasts: between acoustic and electronic instruments, between fast and slow sections, between swing and straight rhythms.</br>
 These contrasts won't blend, but they will come to a sort of uneasy cohabitation, just like oil and water sometimes do.
+All the melodies you hear are played by a clarinet, at times heavily distorted and effected.
 
 "Oil and Water" emulsify two themes taken from previous [Moods and Modes](/post/moods_and_modes) pieces: [Marilyn](/music/marilyn) for the slow section and [Geronimo](/music/geronimo) for the fast one. Follow the links to hear the original versions.
 
