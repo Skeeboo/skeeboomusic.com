@@ -36,4 +36,4 @@ Tracks based on themes taken from [Moods and Modes](/post/moods_and_modes) [Volu
 | Track name | Based on | Stream and download | Lead instrument |
 | --- | --- | --- | --- |
 | [Oil and Water](/music/oil_and_water) | [Marilyn](/music/marilyn) and <br/>  [Geronimo](/music/geronimo)| {{<bandcamp_small title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}| Clarinet |
-| [From Dusk Till Dawn](/music/from_dusk_till_dawn) | [Autumn Sunset](/music/autumn_sunset) and <br/>  [Sunrise on Mars](/music/sunrise_on_mars)| Coming soon... | Oboe |
+| [From Dusk Till Dawn](/music/from_dusk_till_dawn) | [Autumn Sunset](/music/autumn_sunset) and <br/>  [Sunrise on Mars](/music/sunrise_on_mars)| {{<bandcamp_small title="From Dusk Till Dawn" track="4197097085" link="https://skeeboo.bandcamp.com/track/from-dusk-till-dawn">}} | Oboe |

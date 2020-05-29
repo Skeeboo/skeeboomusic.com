@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/OilAndWater.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/oil-and-water" target="_blank">}}
+{{<figure src="/img/covers/FromDuskTillDawn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/from-dusk-till-dawn" target="_blank">}}
 
-{{<bandcamp_small title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}
+{{<bandcamp_small title="From Dusk Till Dawn" track="4197097085" link="https://skeeboo.bandcamp.com/track/from-dusk-till-dawn">}}
