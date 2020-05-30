@@ -37,8 +37,6 @@ With the company of a blend of electric and acoustic timbres and lead by an oboe
 
 The melodic themes are derived from previous [Moods and Modes](/post/moods_and_modes) pieces: the "chilly evening" theme comes from [Autumn Sunset](/music/autumn_sunset) while the "sunrise" central theme comes from [Sunrise on Mars](/music/sunrise_on_mars). Follow the links to hear the original versions.
 
-{{<figure src="/img/covers/FromDuskTillDawn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/from-dusk-till-dawn" target="_blank">}}
-
 ## Available Jun, 5th
 
 The track will be available on Bandcamp starting on May, 29th and released on all the main digital platforms on Jun, 5th.

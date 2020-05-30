@@ -30,7 +30,7 @@ caption = ""
 
 {{<figure src="/img/covers/SunriseOnMars.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/e1py" target="_blank">}}
 
-"Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Sunrise on Mars" is track number 5 of the ["Moods and modes" project](/post/moods_and_modes).
 
 It's a festive and alien salute to the sun, with an interlude of strings and English Horn.
 
@@ -38,7 +38,7 @@ The melody played by the synth is based on a "major pentascale" (the first five 
 
 Hear the alien choir sing!
 
-## Stream and download for free
+## Stream and download:
 
 {{<bandcamp title="Sunrise On Mars" track="3616695239" link="https://skeeboo.bandcamp.com/track/sunrise-on-mars">}}
 
@@ -53,3 +53,10 @@ Hear the alien choir sing!
 {{<napster link="https://us.napster.com/artist/skeeboo/album/sunrise-on-mars">}}
 
 {{<spotify_player_big uri="spotify:track:1vYbVFGjdrMNsbsGXTXoo1">}}
+
+## Remixes
+
+This track has caught the attention of some musician friends, that gifted me with some beautiful electronic remixes.
+Here you can hear the dreamy version made by the producer Trip Jacker:
+
+{{<soundcloud_player title="Sunrise on Mars (Trip Jacker Remix)" track="739910299" link="https://soundcloud.com/skeeboo-1/sunrise-on-mars-trip-jacker-remix">}}
