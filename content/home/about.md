@@ -43,7 +43,7 @@ You can read all about it [on the project page](/post/moods_and_modes). One of t
 ["Tableaux Électroniques"](/post/tableaux_electroniques) is the ombrella name for all the remixes, re-compositions and combinations of "Moods and Modes" sketches made by musician friends or by myself. </br>
 Trying to merge the acoustic and electronic worlds, the project is taking shape in 2020 and it has now [a dedicated page](/post/tableaux_electroniques) on the website.
 
-You can download all my music from [Bandcamp](https://skeeboo.bandcamp.com) (at the price you want, also for free) or in the main digital stores. You can also stream it on Spotify or on your preferred streaming platform.
+You can download all my music from [Bandcamp](https://skeeboo.bandcamp.com) or in the main digital stores. You can also stream it on Spotify or on your preferred streaming platform.
 
 Have a look around and, if you like what you hear, you can leave your email in the form below and you'll receive a monthly update on new compositions, or you can follow me (much appreciated) on Bandcamp or Spotify using the buttons below.
 
