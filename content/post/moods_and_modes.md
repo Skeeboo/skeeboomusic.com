@@ -22,7 +22,7 @@ The best way to keep you up to date on the project is to leave your email addres
 I have also collected all the pieces in a single Spotify playlist which you can save to your library if you like: </br>
 {{<spotify_player uri="spotify:user:5hoyhgo5r9ff4dstwdukednrf:playlist:6urzWct3U1z8b1SRWtBHUX">}}
 
-The pieces are collected in volumes of six songs each; every one can be downloaded [at my Bandcamp site](https://skeeboo.bandcamp.com) for the price you want (also for free).
+The pieces are collected in volumes of six songs each; every one can be downloaded [at my Bandcamp site](https://skeeboo.bandcamp.com).
 
 Here's a super handy table with a link to a webpage for every piece (where you can read a little background on its composition) and a music player to hear it right away. Enjoy!
 
@@ -67,7 +67,7 @@ Here's a super handy table with a link to a webpage for every piece (where you c
 
 ## Volume IV: other modes without accidentals
 
-Volume IV (not yet released as an album) will collect 6 pieces written in other modes without accidentals (well, mostly).
+[Volume IV (upcoming on July, 3rd 2020)](/music/moods_and_modes_vol4)  will collect 6 pieces written in other modes without accidentals (well, mostly).
 The first 3 pieces are a short trip around the world, the other 3 a short trip inside a mind.
 
 | Scale or Mode | Track name | Stream and download |

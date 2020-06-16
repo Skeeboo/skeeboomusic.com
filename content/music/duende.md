@@ -28,13 +28,16 @@ caption = ""
 
 +++
 
+## New live version releases on July, 3rd
+
 {{<bandcamp title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}}
 
-"Duende" is track number 19 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Duende" is track number 19 of the ["Moods and modes" project](/post/moods_and_modes).
 
-It's a passional piece with a wink to some flamenco and habanera rhythms. A solo violin leads the way. 
-
+It's a passional piece with a wink to some flamenco and habanera rhythms where a solo violin leads the way.
 The melody is in E Phrygian mode, with a "spanish tinge".
+
+A new and much improved recording will be released as the leading single of my upcoming EP [Moods and Modes vol. IV](/music/moods_and_modes_vol4), with a breathtaking solo violin part played by Valentina Borgato.
 
 {{<figure src="/img/covers/Duende.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/duende" target="_blank">}}
 
