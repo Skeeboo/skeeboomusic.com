@@ -41,6 +41,17 @@ With this volume IV, Moods and Modes is not a solo project anymore, thanks to th
 
 The 6 instrumental pieces complete the journey through the modes of the C major scale, visiting E Phrygian, G Mixolydian, B Locrian, C major blues, A mixed minor.
 
+## Tracks
+
+These are the tracks included on the EP, with the indication of their Mood and Mode:
+
+1. [Duende (live)](/music/duende) \[Spanish Flamenco + Habanera ; E Phrygyan\]
+2. [Ceilidh](/music/ceilidh) \[Scottish Jig; G Mixolydian\]
+3. [Kurai Umi](/music/kurai_umi) \[Japanese rêverie ; E Phrygyan, Insen Scale\]
+4. [Changes](/music/changes) \[Neo classical ; B Locrian\]
+5. [Don't Worry](/music/dont_worry) \[Swing ; C Major Blues\]
+6. [No More Fears](/music/no_more_fears) \[Rock anthem ; A mixed minor\]
+
 ## Credits
 
 Valentina Borgato - violin (on tracks 1, 2, 6), viola (on tracks 2,4,6) <br/>
