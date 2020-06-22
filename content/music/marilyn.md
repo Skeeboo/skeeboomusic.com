@@ -47,3 +47,9 @@ The blues scale is able to [rock](/music/geronimo) but also loves to swing! Mari
 {{<napster link="https://us.napster.com/artist/skeeboo/album/marilyn">}}
 
 {{<spotify_player_big uri="spotify:track:4xng9S2jM5KsbXuj4Q9W7N">}}
+
+## Remixes
+
+This track has been rendered in a chill and trippy version by italo-finnic producer ØLSKXX. Here's his take on the song:
+
+{{<soundcloud_player title="Marilyn (ØLSKXX Remix)" track="826055293" link="https://soundcloud.com/skeeboo-1/marilyn-olskxx-remix">}}
