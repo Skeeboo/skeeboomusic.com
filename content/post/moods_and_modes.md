@@ -67,12 +67,12 @@ Here's a super handy table with a link to a webpage for every piece (where you c
 
 ## Volume IV: other modes without accidentals
 
-[Volume IV (upcoming on July, 3rd 2020)](/music/moods_and_modes_vol4)  will collect 6 pieces written in other modes without accidentals (well, mostly).
+[Volume IV](/music/moods_and_modes_vol4)  collects 6 pieces written in other modes without accidentals (well, mostly).
 The first 3 pieces are a short trip around the world, the other 3 a short trip inside a mind.
 
 | Scale or Mode | Track name | Stream and download |
 | --- | --- | --- |
-| E Phrygyan, spanish tinge | [Duende](/music/duende) | {{<bandcamp_small title="Duende" track="894631048" link="https://skeeboo.bandcamp.com/track/duende">}} |
+| E Phrygyan, spanish tinge | [Duende](/music/duende) | {{<bandcamp_small title="Duende (live)" track="2575286074" link="https://skeeboo.bandcamp.com/track/duende-live">}} |
 | E Phrygyan, insen scale | [Kurai Umi](/music/kurai_umi) | {{<bandcamp_small title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}} |
 | G Mixolydian, celtic mood| [Ceilidh](/music/ceilidh) | {{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}|
 | B locrian | [Changes](/music/changes) | {{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}} |

@@ -28,12 +28,10 @@ caption = ""
 
 +++
 
-## Releases on July, 3rd
-
-{{<figure src="/img/covers/volIV.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/moods-and-modes-vol-iv" target="_blank">}}
+{{<bandcamp_big album="10932115">}}
 
 
-This fourth act of the [Moods and Modes project](/post/moods_and_modes) was born during the lockdown, when traveling and exploring could happen only inside your mind.
+This fourth act of the [Moods and Modes project](/post/moods_and_modes) was finalized during the lockdown, when traveling and exploring could happen only inside your mind.
 
 The first three pieces are an imaginary escape through Spain, Scotland and Japan; while the last three are a journey inside our souls, between the need to change, the desire to chill and relax, the rebellion against our fears.
 

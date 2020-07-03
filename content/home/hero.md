@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/FromDuskTillDawn.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/from-dusk-till-dawn" target="_blank">}}
+{{<figure src="/img/covers/volIV.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/moods-and-modes-vol-iv" target="_blank">}}
 
-{{<bandcamp_small title="From Dusk Till Dawn" track="4197097085" link="https://skeeboo.bandcamp.com/track/from-dusk-till-dawn">}}
+{{<bandcamp_small title="Duende (live)" track="2575286074" link="https://skeeboo.bandcamp.com/track/duende-live">}}
