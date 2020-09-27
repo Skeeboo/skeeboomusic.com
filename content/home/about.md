@@ -38,7 +38,7 @@ weight = 5
 I am a composer and arranger from Italy.
 
 After a 25 years hiatus, I went back making music in 2018 during a period of recovery, when I started a project called ["Moods and Modes"](/post/moods_and_modes): an ongoing collection of short instrumental tracks each one exploring a different musical scales or mode and a different mood or genre.</br>
-You can read all about it [on the project page](/post/moods_and_modes). One of the latest outcomes of the project is an EP fancifully called ["Moods and Modes vol. III"](/music/moods_and_modes_vol3).
+You can read all about it [on the project page](/post/moods_and_modes). One of the latest outcomes of the project is an EP fancifully called ["Moods and Modes vol. IV"](/music/moods_and_modes_vol4).
 
 ["Tableaux Électroniques"](/post/tableaux_electroniques) is the ombrella name for all the remixes, re-compositions and combinations of "Moods and Modes" sketches made by musician friends or by myself. </br>
 Trying to merge the acoustic and electronic worlds, the project is taking shape in 2020 and it has now [a dedicated page](/post/tableaux_electroniques) on the website.
