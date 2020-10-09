@@ -28,7 +28,7 @@ caption = ""
 
 +++
 
-{{<figure src="/img/covers/ComeOutAndPlayAgain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/come-out-and-play-again" target="_blank">}}
+{{<bandcamp title="Come Out and Play Again" track="48527570" link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}}
 
 "Come Out and Play Again" is an instrumental rock ballad that I wrote to remind me the importance of simple feelings in complicated times. <br/>
 A trumpet and a tenor saxophone have a playful chat over a strings and rhythm section, with a piano offering an ostinato background.

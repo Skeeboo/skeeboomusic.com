@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/volIV.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/moods-and-modes-vol-iv" target="_blank">}}
+{{<figure src="/img/covers/ComeOutAndPlayAgain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/come-out-and-play-again" target="_blank">}}
 
-{{<bandcamp_small title="Duende (live)" track="2575286074" link="https://skeeboo.bandcamp.com/track/duende-live">}}
+{{<bandcamp_small title="Come Out and Play Again" track="48527570" link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}}
