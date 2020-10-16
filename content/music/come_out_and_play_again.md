@@ -35,6 +35,13 @@ A trumpet and a tenor saxophone have a playful chat over a strings and rhythm se
 
 This is the 25th composition overall of the ["Moods and modes" project](/post/moods_and_modes) and the first to tackle the G major scale. The facet of this scale here explored is its simple playful character.
 
-## To be released on Oct, 16th
-
 {{<figure src="/img/covers/ComeOutAndPlayAgain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/come-out-and-play-again" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}}
+{{<spotify link="https://spoti.fi/3dvpL6J">}}
+{{<itunes link="https://music.apple.com/us/album/come-out-and-play-again-single/1532636335">}}
+{{<globe link="https://song.link/hffbfnkj3j3vb">}}
+
+{{<spotify_player_big uri="spotify:track:0sFmeGW0e1CA2twbdDItTi">}}
