@@ -2,7 +2,7 @@
 title = "Moods and Modes"
 
 date = 2018-11-10T00:00:00
-lastmod = 2020-04-16T00:00:00
+lastmod = 2020-10-27T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -77,7 +77,7 @@ The first 3 pieces are a short trip around the world, the other 3 a short trip i
 | G Mixolydian, celtic mood| [Ceilidh](/music/ceilidh) | {{<bandcamp_small title="Ceilidh" track="1265876713" link="https://skeeboo.bandcamp.com/track/ceilidh">}}|
 | B locrian | [Changes](/music/changes) | {{<bandcamp_small title="Changes" track="1551703790" link="https://skeeboo.bandcamp.com/track/changes">}} |
 | C major Blues | [Don't Worry](/music/dont_worry) | {{<bandcamp_small title="Don't Worry" track="815735371" link="https://skeeboo.bandcamp.com/track/dont-worry">}} |
-| A Blues |[No More Fears](/music/no_more_fears)| {{<bandcamp_small title="No More Fears" track="2434422280" link="https://skeeboo.bandcamp.com/track/no-more-fears">}} |
+| A minor Blues |[No More Fears](/music/no_more_fears)| {{<bandcamp_small title="No More Fears" track="2434422280" link="https://skeeboo.bandcamp.com/track/no-more-fears">}} |
 
 ## Volume V: G Major
 
@@ -86,4 +86,5 @@ Volume V will probably collect 6 pieces in different moods, all exploring the G 
 | Scale or Mode | Track name | Stream and download |
 | --- | --- | --- |
 | G major, playful | [Come Out and Play Again](/music/come_out_and_play_again) | {{<bandcamp_small title="Come Out and Play Again" track="48527570" link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}} |
-| G major, ragtime | Stay tuned! |  |
+| G major, ragtime | [Rags to Riches](/music/rags_to_riches) |  |
+| G major, jazzy | Stay tuned! |  |
