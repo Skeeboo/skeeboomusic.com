@@ -2,7 +2,7 @@
 # Hero widget.
 widget = "hero"
 active = true
-date = 2019-03-02T00:00:00
+date = 2020-11-07T00:00:00
 
 title = ""
 
@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/ComeOutAndPlayAgain.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/come-out-and-play-again" target="_blank">}}
+{{<figure src="/img/covers/RagsToRiches.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/rags-to-riches" target="_blank">}}
 
-{{<bandcamp_small title="Come Out and Play Again" track="48527570" link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}}
+{{<bandcamp_small title="Rags to Riches" track="985189474" link="https://skeeboo.bandcamp.com/track/rags-to-riches">}}

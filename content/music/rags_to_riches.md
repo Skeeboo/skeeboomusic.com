@@ -1,6 +1,6 @@
 +++
 # Date this page was created.
-date = 2020-10-27T00:00:00
+date = 2020-11-07T00:00:00
 
 # Project title.
 title = "Rags to Riches"
@@ -30,8 +30,10 @@ caption = ""
 
 ## Available on Nov, 13th
 
-{{<figure src="/img/covers/RagsToRiches.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/rags-to-riches" target="_blank">}}
+{{<bandcamp title="Rags to Riches" track="985189474" link="https://skeeboo.bandcamp.com/track/rags-to-riches">}}
 
 "Rags to Riches" is a ragtime piano piece that gets a suspenseful twist midway, vaguely inspired by silent movie soundtracks.
 
 It's piece no. 26 of the ["Moods and modes" project](/post/moods_and_modes) and it explores the G major scale in a ragtime style.
+
+{{<figure src="/img/covers/RagsToRiches.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/rags-to-riches" target="_blank">}}

@@ -2,7 +2,7 @@
 title = "Moods and Modes"
 
 date = 2018-11-10T00:00:00
-lastmod = 2020-10-27T00:00:00
+lastmod = 2020-11-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -86,5 +86,5 @@ Volume V will probably collect 6 pieces in different moods, all exploring the G 
 | Scale or Mode | Track name | Stream and download |
 | --- | --- | --- |
 | G major, playful | [Come Out and Play Again](/music/come_out_and_play_again) | {{<bandcamp_small title="Come Out and Play Again" track="48527570" link="https://skeeboo.bandcamp.com/track/come-out-and-play-again">}} |
-| G major, ragtime | [Rags to Riches](/music/rags_to_riches) |  |
+| G major, ragtime | [Rags to Riches](/music/rags_to_riches) | {{<bandcamp_small title="Rags to Riches" track="985189474" link="https://skeeboo.bandcamp.com/track/rags-to-riches">}} |
 | G major, jazzy | Stay tuned! |  |
