@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Available on Nov, 13th
-
 {{<bandcamp title="Rags to Riches" track="985189474" link="https://skeeboo.bandcamp.com/track/rags-to-riches">}}
 
 "Rags to Riches" is a ragtime piano piece that gets a suspenseful twist midway, vaguely inspired by silent movie soundtracks.
@@ -37,3 +35,12 @@ caption = ""
 It's piece no. 26 of the ["Moods and modes" project](/post/moods_and_modes) and it explores the G major scale in a ragtime style.
 
 {{<figure src="/img/covers/RagsToRiches.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/rags-to-riches" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/rags-to-riches">}}
+{{<spotify link="https://spoti.fi/3pq0u3y">}}
+{{<itunes link="https://music.apple.com/us/album/rags-to-riches-single/1537292403">}}
+{{<globe link="https://song.link/tthskkq83fzdj">}}
+
+{{<spotify_player_big uri="spotify:track:2PGbb7etM7Q2g8ncgYfZwK">}}
