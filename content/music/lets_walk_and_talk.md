@@ -30,8 +30,14 @@ caption = ""
 
 ## Releases Feb 5, 2021
 
+{{<bandcamp title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}
+
 "Let's Walk and Talk" is a little "easy listening" nostalgic piece about walking hand in hand and talking.
 
 It's piece no. 27 of the ["Moods and modes" project](/post/moods_and_modes) and it explores the G major scale in a easy listening style.
 
 {{<figure src="/img/covers/LetsWalkAndTalk.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/lets-walk-and-talk" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}

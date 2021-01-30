@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Keep in touch!'
 +++
 
 
-{{<figure src="/img/covers/RagsToRiches.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/rags-to-riches" target="_blank">}}
+{{<figure src="/img/covers/LetsWalkAndTalk.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/lets-walk-and-talk" target="_blank">}}
 
-{{<bandcamp_small title="Rags to Riches" track="985189474" link="https://skeeboo.bandcamp.com/track/rags-to-riches">}}
+{{<bandcamp_small title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}
