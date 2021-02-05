@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Releases Feb 5, 2021
-
 {{<bandcamp title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}
 
 "Let's Walk and Talk" is a little "easy listening" nostalgic piece about walking hand in hand and talking.
@@ -41,3 +39,8 @@ It's piece no. 27 of the ["Moods and modes" project](/post/moods_and_modes) and 
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}
+{{<spotify link="http://spoti.fi/3cIoECg">}}
+{{<itunes link="https://music.apple.com/us/album/lets-walk-and-talk-single/1549440705">}}
+{{<globe link="https://song.link/pzb4bxh7dfrms">}}
+
+{{<spotify_player_big uri="spotify:track:1HABNiXPHSnunFLt9XZy1F">}}
