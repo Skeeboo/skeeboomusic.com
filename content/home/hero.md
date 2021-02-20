@@ -22,8 +22,8 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://mailchi.mp/24b27fb6e70e/skeeboo_signup"
-label = '<i class="fas fa-envelope"></i> Keep in touch!'
+url = "https://skeeboo.ck.page/duende"
+label = '<i class="fas fa-envelope"></i> Monthly newsletter!'
 
 +++
 

@@ -35,12 +35,20 @@ caption = ""
 It's a passional piece with a wink to some flamenco and habanera rhythms where a breathtaking solo violin part played by Valentina Borgato leads the way.
 The melody is in E Phrygian mode, with a "spanish tinge".
 
-{{<figure src="/img/covers/Duende.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/duende" target="_blank">}}
+{{< youtube ZWBBLIwJreg >}}
 
 ## Available from:
+
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/duende-live">}}
 {{<itunes link="https://music.apple.com/us/album/duende-single/1478770663">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07XF1H9FX">}}
 {{<spotify link="https://open.spotify.com/track/1TqkCiSyNrsjvudPeMJi1u">}}
 
-{{<spotify_player_big uri="spotify:track:1TqkCiSyNrsjvudPeMJi1u">}}
+## Random listeners quotes :)
+* "Loved this. Perfectly matches with dance"
+* "i like shit like this a lot, big work u got"
+* "I like the foreign and dancy feel"
+* "Wow love the vibes, the strings are nice"
+* "i like the vibe,’mix a bit piercing"
+* "Very nice flamenco motives! Great idea"
+* "I love this. Is so cinematic because I could imagine a scene here "

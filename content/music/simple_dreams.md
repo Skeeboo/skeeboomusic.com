@@ -30,14 +30,14 @@ caption = ""
 
 {{<figure src="/img/covers/SimpleDreams.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fsTj" target="_blank">}}
 
-"Simple Dreams" is track number 7 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Simple Dreams" is track number 7 of the ["Moods and modes" project](/post/moods_and_modes).
 
-It's a simple emotional song, featuring a string section, a piano (for the first time in the project) and a flute. 
-The melody is based on the C major scale, trying to reflect its simple beauty. 
+It's a simple emotional song, featuring a string section, a piano (for the first time in the project) and a flute.
+The melody is based on the C major scale, trying to reflect its simple beauty.
 
 Sometimes we need just simple things.
 
-{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}} 
+{{<bandcamp title="Simple Dreams" track="2051252705" link="https://skeeboo.bandcamp.com/track/simple-dreams">}}
 
 ## Available from:
 
@@ -45,11 +45,8 @@ Sometimes we need just simple things.
 {{<itunes link="https://itunes.apple.com/us/album/simple-dreams-single/1442700293">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07KLDR2CH">}}
 {{<spotify link="https://open.spotify.com/track/3FKzlj0Y6uKFbt44NUBD8f">}}
-{{<youtube link="https://youtu.be/D0IVIs3bgWQ">}}
+{{<youtube_lnk link="https://youtu.be/D0IVIs3bgWQ">}}
 {{<deezer link="https://www.deezer.com/album/78927772">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/simple-dreams">}}
 
 {{<spotify_player_big uri="spotify:track:3FKzlj0Y6uKFbt44NUBD8f">}}
-
-
-

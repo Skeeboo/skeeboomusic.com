@@ -30,7 +30,7 @@ caption = ""
 
 {{<figure src="/img/covers/AGlimmerOfHope.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/giiN" target="_blank">}}
 
-"A Glimmer of Hope" is track number 10 of the ["Moods and modes" project](/post/moods_and_modes). 
+"A Glimmer of Hope" is track number 10 of the ["Moods and modes" project](/post/moods_and_modes).
 
 It's a melancholic but hopeful composition for orchestra.
 The melody is based on the A minor scale, that inspired a passionate theme which called for an orchestral treatment (the first of the project).
@@ -43,14 +43,7 @@ The melody is based on the A minor scale, that inspired a passionate theme which
 {{<itunes link="https://itunes.apple.com/us/album/a-glimmer-of-hope-single/1449380426">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07MMF9M94">}}
 {{<spotify link="https://open.spotify.com/track/7nOVLHLQLKETnwjRiEgNEG">}}
-{{<youtube link="https://music.youtube.com/watch?v=tjmGWorML5A&feature=share">}}
+{{<youtube_lnk link="https://music.youtube.com/watch?v=tjmGWorML5A&feature=share">}}
 {{<deezer link="https://www.deezer.com/album/84196522">}}
 
 {{<spotify_player_big uri="spotify:track:7nOVLHLQLKETnwjRiEgNEG">}}
-
-
-
-
-
-
-

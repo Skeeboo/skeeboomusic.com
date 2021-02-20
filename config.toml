@@ -310,8 +310,8 @@ enableGitInfo = false
 #  weight = 6
 
 [[menu.main]]
-  name = "Let's keep in touch!"
-  url = "https://mailchi.mp/24b27fb6e70e/skeeboo_signup"
+  name = "Free downloads"
+  url = "https://skeeboo.ck.page/duende"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.

@@ -30,10 +30,10 @@ caption = ""
 
 {{<figure src="/img/covers/Serenidad.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/fKNj" target="_blank">}}
 
-"Serenidad" is track number 8 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Serenidad" is track number 8 of the ["Moods and modes" project](/post/moods_and_modes).
 
 It's a serene conversation between a flute and a trumpet in a caribbean mood.
-The melody is based on the C major scale, like [Simple Dreams](/music/simple_dreams) but this time I try to highlight the joyful side of this simple scale. 
+The melody is based on the C major scale, like [Simple Dreams](/music/simple_dreams) but this time I try to highlight the joyful side of this simple scale.
 
 Smile and move those feets...
 
@@ -45,11 +45,8 @@ Smile and move those feets...
 {{<itunes link="https://itunes.apple.com/us/album/serenidad-single/1445959067">}}
 {{<amazon link="http://www.amazon.com/gp/product/B07L5XPHL1">}}
 {{<spotify link="https://open.spotify.com/track/6EcWL2pVmEiGQGN0TjkyLh">}}
-{{<youtube link="https://music.youtube.com/watch?v=eKXeqsaPS0g&feature=share">}}
+{{<youtube_lnk link="https://music.youtube.com/watch?v=eKXeqsaPS0g&feature=share">}}
 {{<deezer link="https://www.deezer.com/album/81252502">}}
 {{<napster link="https://us.napster.com/artist/skeeboo/album/serenidad">}}
 
 {{<spotify_player_big uri="spotify:track:6EcWL2pVmEiGQGN0TjkyLh">}}
-
-
-

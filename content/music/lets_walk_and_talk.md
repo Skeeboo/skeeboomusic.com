@@ -44,3 +44,9 @@ It's piece no. 27 of the ["Moods and modes" project](/post/moods_and_modes) and 
 {{<globe link="https://song.link/pzb4bxh7dfrms">}}
 
 {{<spotify_player_big uri="spotify:track:1HABNiXPHSnunFLt9XZy1F">}}
+
+## Random listeners quotes :)
+* "Way too slow"
+* "Almost funereal"
+* "Do you really feel so sad?"
+* "It's not vintage, it's plain old"
