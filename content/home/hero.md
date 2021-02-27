@@ -28,6 +28,6 @@ label = '<i class="fas fa-envelope"></i> Monthly newsletter!'
 +++
 
 
-{{<figure src="/img/covers/LetsWalkAndTalk.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/lets-walk-and-talk" target="_blank">}}
+{{<figure src="/img/covers/Synesthesia.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/synesthesia" target="_blank">}}
 
-{{<bandcamp_small title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}}
+{{<bandcamp_small title="Synesthesia" track="180243059" link="https://skeeboo.bandcamp.com/track/synesthesia">}}
