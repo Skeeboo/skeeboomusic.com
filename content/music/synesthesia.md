@@ -28,8 +28,6 @@ caption = ""
 
 +++
 
-## Releases March, 5th
-
 {{<bandcamp title="Synesthesia" track="180243059" link="https://skeeboo.bandcamp.com/track/synesthesia">}}
 
 "Synesthesia" is a little placid dance for strings and piano inspired by the sound of colors.
@@ -38,3 +36,12 @@ A viola, a violin, a cello and a piano and some subtle electronics paint a paste
 This is piece no. 28 of the ["Moods and modes" project](/post/moods_and_modes) and it explores the G major scale in a minimalist classic style.
 
 {{<figure src="/img/covers/Synesthesia.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/synesthesia" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/synesthesia">}}
+{{<spotify link="https://open.spotify.com/track/735UR0v6NcG29C6eSxyxCl">}}
+{{<itunes link="https://music.apple.com/us/album/synesthesia-single/1553612284">}}
+{{<globe link="https://song.link/qm3rjw7bfrgpb">}}
+
+{{<spotify_player_big uri="spotify:track:735UR0v6NcG29C6eSxyxCl">}}
