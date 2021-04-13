@@ -22,7 +22,7 @@ overlay_img = "hands3.png"
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 
 [cta]
-url = "https://skeeboo.ck.page/duende"
+url = "https://mailchi.mp/4df2a111a300/kurai-umi"
 label = '<i class="fas fa-envelope"></i> Monthly newsletter!'
 
 +++
