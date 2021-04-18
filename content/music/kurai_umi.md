@@ -30,13 +30,13 @@ caption = ""
 
 {{<bandcamp title="Kurai Umi" track="4037065723" link="https://skeeboo.bandcamp.com/track/kurai-umi">}}
 
-"Kurai Umi" (Dark Waters) is track number 20 of the ["Moods and modes" project](/post/moods_and_modes). 
+"Kurai Umi" (Dark Waters) is track number 20 of the ["Moods and modes" project](/post/moods_and_modes).
 
 The piece is a trip to a "Japan of the mind" (since sadly I've never been there), suggested by a Shakuhachi flute, a Koto and a Taiko drum.  
 
 The melody is in the Insen pentatonic scale, somewhat similar to the E Phrygian mode.
 
-{{<figure src="/img/covers/KuraiUmi.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/kurai-umi" target="_blank">}}
+{{< youtube -Qw6A6gCiwA >}}
 
 ## Available from:
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/kurai-umi">}}
