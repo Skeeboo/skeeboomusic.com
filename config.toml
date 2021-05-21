@@ -311,7 +311,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Free downloads"
-  url = "https://mailchi.mp/4df2a111a300/kurai-umi"
+  url = "https://mailchi.mp/f8d1290ac0f3/empathy"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.

@@ -28,10 +28,19 @@ caption = ""
 
 +++
 
-## Available on May, 21st:
-
-{{<figure src="/img/covers/Empathy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/empathy" target="_blank">}}
+{{<bandcamp title="Empathy" track="966799589" link="https://skeeboo.bandcamp.com/track/empathy">}}
 
 "Empathy" is an unapologetically cheesy pop song inspired  by all the ways in which we care for each others, from the personal to the political level. It comes with no words, but you are welcome to sing along!
 
 This is piece no. 29 of the ["Moods and modes" project](/post/moods_and_modes) and its melody exploits both the G major and G major harmonic scales.
+
+{{<figure src="/img/covers/Empathy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/empathy" target="_blank">}}
+
+## Available from:
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/empathy">}}
+{{<spotify link="https://open.spotify.com/track/4xUbABYGQ7rCOuJHKJLte2">}}
+{{<itunes link="https://music.apple.com/us/album/empathy-single/1563611671">}}
+{{<globe link="https://song.link/kbgqhkfwjcn83">}}
+
+{{<spotify_player_big uri="spotify:track:4xUbABYGQ7rCOuJHKJLte2">}}
