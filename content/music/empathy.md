@@ -34,7 +34,7 @@ caption = ""
 
 This is piece no. 29 of the ["Moods and modes" project](/post/moods_and_modes) and its melody exploits both the G major and G major harmonic scales.
 
-{{<figure src="/img/covers/Empathy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/empathy" target="_blank">}}
+{{< youtube jwQU8YndV0M >}}
 
 ## Available from:
 
