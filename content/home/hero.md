@@ -25,10 +25,14 @@ overlay_img = "hands3.png"
 url = "https://mailchi.mp/add125f4e81c/serendipity"
 label = '<i class="fas fa-envelope"></i> Monthly newsletter!'
 
+# Move below when ready
+# {{<bandcamp_small title="Empathy" track="966799589" link="https://skeeboo.bandcamp.com/track/empathy">}}
+
+
 +++
 
 ## Out on Dec 29th!
 
 {{<figure src="/img/covers/Serendipity.jpg" width="320" link="https://mailchi.mp/add125f4e81c/serendipity" target="_blank">}}
 
-# {{<bandcamp_small title="Empathy" track="966799589" link="https://skeeboo.bandcamp.com/track/empathy">}}
+
