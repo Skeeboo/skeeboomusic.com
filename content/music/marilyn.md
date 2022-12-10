@@ -32,6 +32,15 @@ caption = ""
 
 The blues scale is able to [rock](/music/geronimo) but also loves to swing! Marilyn is the fourth track of the ["Moods and modes" project](/post/moods_and_modes) and she features an electric piano (an old Electra model) that swings around a hammond organ with the help of an upright bass.
 
+## Unique NFT
+Marilyn has been minted as a unique (1of1) NFT on the Ethereum blockchain. It's still available on the OpenSea marketplace and the first owner will:
+
+- get the only existing digital token of that song
+- set the song free (its license will change to Creative Commons)
+- help fund the project and make another piece available on the blockchain
+
+{{<opensea tokenId="69144771035617088879605630991727724618793147754007515479239825510132283867137">}}
+
 ## Stream and download for free
 
 {{<bandcamp title="Marilyn" track="2259420500" link="https://skeeboo.bandcamp.com/track/marilyn">}}

@@ -33,7 +33,7 @@ caption = ""
 A couple of jumpy violins set the mood of this major pentatonic tune, the first to be composed for the project in 2018.
 
 ## Unique NFT
-For the Joy has been minted as a unique (1of1) NFT on the Ethereum blockchain. It's still available on the OpenSea marketplace and his first owner will:
+For the Joy has been minted as a unique (1of1) NFT on the Ethereum blockchain. It's still available on the OpenSea marketplace and the first owner will:
 
 - get the only existing digital token of that song
 - set the song free (its license will change to Creative Commons)
