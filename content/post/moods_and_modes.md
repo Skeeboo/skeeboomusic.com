@@ -28,7 +28,7 @@ Here's a super handy table with a link to a webpage for every piece (where you c
 
 ## Volume I: scales with less than 7 notes
 
-[Volume I](/music/moods_and_modes_vol1) collects 6 pieces written in musical scales with less than 7 notes:
+[Volume I](/music/moods_and_modes_vol1) collects 6 pieces written in musical scales with less than 7 notes. They are (or shortly will be) available as unique NFT [on the Moods and Modes collection on opensea](https://opensea.io/collection/moods-and-modes)
 
 | Scale or Mode | Track name | Stream and download |
 | --- | --- | --- |
@@ -90,4 +90,4 @@ Volume V will probably collect 6 pieces in different moods, all exploring the G 
 | G major, jazz easy listening | [Let's Walk and Talk](/music/lets_walk_and_talk) | {{<bandcamp_small title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}} |
 | G major, minimalist | [Synesthesia](/music/synesthesia) | {{<bandcamp_small title="Synesthesia" track="180243059" link="https://skeeboo.bandcamp.com/track/synesthesia">}} |
 | G major harmonic |[Empathy](/music/empathy)|{{<bandcamp_small title="Empathy" track="966799589" link="https://skeeboo.bandcamp.com/track/empathy">}}|
-| G major and F Lydian | Stay tuned for more! ||
+| G major and F Lydian | [Serendipity](/music/serendipity) | Out on Dec, 29th |

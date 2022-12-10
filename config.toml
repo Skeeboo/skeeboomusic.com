@@ -310,8 +310,8 @@ enableGitInfo = false
 #  weight = 6
 
 [[menu.main]]
-  name = "Free downloads"
-  url = "https://mailchi.mp/f8d1290ac0f3/empathy"
+  name = "Let's keep in touch!"
+  url = "https://mailchi.mp/add125f4e81c/serendipity"
   weight = 7
 
 # Link to a PDF of your resume/CV from the menu.

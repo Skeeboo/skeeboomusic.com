@@ -43,7 +43,4 @@ filter_default = 0
 
 +++
 
-Ongoing projects:
-
-* [Moods and modes](post/moods_and_modes)
-* [Tableaux Électroniques](/post/tableaux_electroniques)
+Please see a recap of my lifelong musical project [Moods and Modes](post/moods_and_modes) [here](post/moods_and_modes) 
