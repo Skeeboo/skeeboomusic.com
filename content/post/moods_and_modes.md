@@ -90,4 +90,5 @@ Volume V will probably collect 6 pieces in different moods, all exploring the G 
 | G major, jazz easy listening | [Let's Walk and Talk](/music/lets_walk_and_talk) | {{<bandcamp_small title="Let's Walk and Talk" track="748445761" link="https://skeeboo.bandcamp.com/track/lets-walk-and-talk">}} |
 | G major, minimalist | [Synesthesia](/music/synesthesia) | {{<bandcamp_small title="Synesthesia" track="180243059" link="https://skeeboo.bandcamp.com/track/synesthesia">}} |
 | G major harmonic |[Empathy](/music/empathy)|{{<bandcamp_small title="Empathy" track="966799589" link="https://skeeboo.bandcamp.com/track/empathy">}}|
-| G major and F Lydian | [Serendipity](/music/serendipity) | Out on Dec, 29th |
+| G major and F Lydian | [Serendipity](/music/serendipity) | {{<bandcamp_small title="Serendipity" track="489316002" link="https://skeeboo.bandcamp.com/track/serendipity">}} |
+| G major and F Lydian, jazz waltz | coming soonish... | |

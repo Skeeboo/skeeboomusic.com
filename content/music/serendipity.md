@@ -28,9 +28,7 @@ caption = ""
 
 +++
 
-## Out on Dec 29th
-
-{{<figure src="/img/covers/Serendipity.jpg" width="320" link="https://mailchi.mp/add125f4e81c/serendipity" target="_blank">}}
+{{<bandcamp title="Serendipity" track="489316002" link="https://skeeboo.bandcamp.com/track/serendipity">}}
 
 "Serendipity" marks the reprise of the ["Moods and modes" project](/post/moods_and_modes) after a quite long pause. And fittingly it's a song about the happy surprises life throws at you when you're busy running the rat race.
 I's a rock song with a bit of '70s nostalgia, and an unnecessarily busy hammond organ.
@@ -38,4 +36,12 @@ The cover art is my first attempt at AI generated digital art, I find it disturb
 
 This is piece no. 30 of the project (wow!) and it explores the combination of a G major and F lydian scale in a fast tempo.
 
-Out for your streaming pleasure on Dec 29th
+{{<figure src="/img/covers/Serendipity.jpg" width="320" link="https://mailchi.mp/add125f4e81c/serendipity" target="_blank">}}
+
+## Available from:
+{{<spotify_player_big uri="spotify:track:2N3M5hGEVSBYBdvyffL9sD">}}
+
+{{<bandcamp_link link="https://skeeboo.bandcamp.com/track/serendipity">}}
+{{<spotify link="https://open.spotify.com/track/2N3M5hGEVSBYBdvyffL9sD">}}
+{{<itunes link="https://music.apple.com/us/album/serendipity-single/1658851660">}}
+{{<globe link="https://song.link/synesthesia">}}
