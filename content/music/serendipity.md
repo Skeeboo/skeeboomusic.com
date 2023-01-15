@@ -36,7 +36,7 @@ The cover art is my first attempt at AI generated digital art, I find it disturb
 
 This is piece no. 30 of the project (wow!) and it explores the combination of a G major and F lydian scale in a fast tempo.
 
-{{<figure src="/img/covers/Serendipity.jpg" width="320" link="https://mailchi.mp/add125f4e81c/serendipity" target="_blank">}}
+{{< youtube klbqekVIHCs >}}
 
 ## Available from:
 {{<spotify_player_big uri="spotify:track:2N3M5hGEVSBYBdvyffL9sD">}}
