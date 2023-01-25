@@ -28,7 +28,6 @@ caption = ""
 
 +++
 {{<bandcamp_big album="2673027804">}}
-{{<noisetrade code="2b707921-1012-4d49-bf28-b4beb6b8373a">}}
 
 ["Moods and Modes vol. I"](https://skeeboo.bandcamp.com/album/moods-and-modes-vol-1) is a Bandcamp exclusive EP that collects the first 6 sketches of the ["Moods and modes" project](/post/moods_and_modes).
 

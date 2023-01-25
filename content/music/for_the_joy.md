@@ -26,21 +26,13 @@ math = false
 image = ""
 caption = ""
 
+# {{<opensea tokenId="69144771035617088879605630991727724618793147754007515479239825506833748983809">}}
+
 +++
 
 {{<figure src="/img/covers/ForTheJoy.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/eyMR" target="_blank">}}
 
 A couple of jumpy violins set the mood of this major pentatonic tune, the first to be composed for the project in 2018.
-
-## Unique NFT
-For the Joy has been minted as a unique (1of1) NFT on the Ethereum blockchain. It's still available on the OpenSea marketplace and the first owner will:
-
-- get the only existing digital token of that song
-- set the song free (its license will change to Creative Commons)
-- help fund the project and make another piece available on the blockchain
-
-{{<opensea tokenId="69144771035617088879605630991727724618793147754007515479239825506833748983809">}}
-
 
 ## Stream and download for free
 

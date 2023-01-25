@@ -26,9 +26,9 @@ math = false
 image = ""
 caption = ""
 
-+++
-
 # {{<bandcamp_big album="10932115">}}
+
++++
 
 "Tableaux Electroniques", a [Bandcamp](https://skeeboo.bandcamp.com/album/tableaux-electroniques) exclusive, brings together electronic downtempo beats with my usual instrumental compositions. 
 
@@ -38,21 +38,23 @@ The first three songs form a sort of suite in three acts, each one made by recom
 
 Following up, some new perspectives on the original pieces are presented thanks to remixes by Bufinjer, ØLSKXX, Trip Jacker, Cylotron and myself.
 
-Closing the album, the [full original EP]/post/moods_and_modes_vol1) is featured entirely.
+Closing the album, the [full original EP](/music/moods_and_modes_vol1) is featured entirely.
 
 ## Tracks
 
 These are the tracks included on the album:
 
-1. #1 - The Joy of Sailing Away \[recombination of "For the Joy" and "Sail Away"\]
+1. [#1 - The Joy of Sailing Away](/music/the_joy_of_sailing_away) \[recombination of "For the Joy" and "Sail Away"\]
 2. [#2 - Oil and Water](/music/oil_and_water) \[recombination of "Geronimo" and "Marilyn"\]
 3. [#3 - From Dusk Till Dawn](/music/from_dusk_till_dawn) \[recombination of "Sunrise on Mars" and "Autumn Sunset"\]
+
 
 4. Geronimo (remix) \[remix by Skeeboo\]
 5. Geronimo (Bufinjer Arrowhead Mix) \[remix by Bufinjer\]
 6. Marilyn (ØLSKXX Remix) \[remix by ØLSKXX\]
 7. Sunrise On Mars (Trip Jacker Remix) \[remix by Trip Jacker\]
 8. Sunrise on Mars (Cylotron Remix) \[remix by Cylotron\]
+
 
 9. [For the Joy](/music/for_the_joy)
 10. [Sail Away](/music/sail_away)

@@ -30,7 +30,7 @@ caption = ""
 
 {{<bandcamp title="From Dusk Till Dawn" track="4197097085" link="https://skeeboo.bandcamp.com/track/from-dusk-till-dawn">}}
 
-"From Dusk Till Dawn" is the second composition of my new [Tableaux Électroniques](/post/tableaux_electroniques) project.</br>
+"From Dusk Till Dawn" is the third and final act of the suite opening the [Tableaux Électroniques](/music/tableaux_electroniques) album.</br>
 With the company of a blend of electric and acoustic timbres and lead by an oboe, you may wander around in a chilly night until the sun rises.
 
 The melodic themes are derived from previous [Moods and Modes](/post/moods_and_modes) pieces: the "chilly evening" theme comes from [Autumn Sunset](/music/autumn_sunset) while the "sunrise" central theme comes from [Sunrise on Mars](/music/sunrise_on_mars). Follow the links to hear the original versions.

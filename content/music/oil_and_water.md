@@ -30,7 +30,7 @@ caption = ""
 
 {{<bandcamp title="Oil and Water" track="388375096" link="https://skeeboo.bandcamp.com/track/oil-and-water">}}
 
-"Oil and Water" is the first piece of my new [Tableaux Électroniques](/post/tableaux_electroniques) project.</br>
+"Oil and Water" is the second act of the suite opening the [Tableaux Électroniques](/music/tableaux_electroniques) album.</br>
 This track is marked by some stark contrasts: between acoustic and electronic instruments, between fast and slow sections, between swing and straight rhythms.</br>
 These contrasts won't blend, but they will come to a sort of uneasy cohabitation, just like oil and water sometimes do.
 All the melodies you hear are played by a clarinet, at times heavily distorted and effected.

@@ -32,15 +32,6 @@ caption = ""
 
 The second track on the ["Moods and modes" project](/post/moods_and_modes) explores the minor pentatonic scale and it features a flute and a cello in a gentle roll.
 
-## Unique NFT
-Sail Away has been minted as a unique (1of1) NFT on the Ethereum blockchain. It's still available on the OpenSea marketplace and the first owner will:
-
-- get the only existing digital token of that song
-- set the song free (its license will change to Creative Commons)
-- help fund the project and make another piece available on the blockchain
-
-{{<opensea tokenId="69144771035617088879605630991727724618793147754007515479239825507933260611585">}}
-
 ## Stream and download for free
 
 {{<bandcamp title="Sail Away" track="1637118396" link="http://skeeboo.bandcamp.com/track/sail-away">}}
