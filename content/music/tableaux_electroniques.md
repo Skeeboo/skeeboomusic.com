@@ -26,9 +26,9 @@ math = false
 image = ""
 caption = ""
 
-# {{<bandcamp_big album="10932115">}}
-
 +++
+
+{{<bandcamp_big album="2651814891">}}
 
 "Tableaux Electroniques", a [Bandcamp](https://skeeboo.bandcamp.com/album/tableaux-electroniques) exclusive, brings together electronic downtempo beats with my usual instrumental compositions. 
 
