@@ -26,11 +26,16 @@ math = false
 image = ""
 caption = ""
 
+# {{<spotify link="https://spoti.fi/2Y4qpRq">}}
+# {{<itunes link="https://music.apple.com/us/album/from-dusk-till-dawn-single/1513809245">}}
+# {{<globe link="https://song.link/qzx4rvdz7vgjf">}}
+
+# {{<spotify_player_big uri="spotify:track:0i6xY7vKsqEygGEZ5dPyKU">}}
+
+
 +++
 
-# {{<bandcamp title="The Joy of Sailing Away" track="4197097085" link="https://skeeboo.bandcamp.com/track/1-the-joy-of-sailing-away">}}
-
-{{<figure src="/img/covers/TheJoyOfSailingAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/the-joy-of-sailing-away" target="_blank">}}
+{{<bandcamp title="The Joy of Sailing Away" track="286262252" link="https://skeeboo.bandcamp.com/track/1-the-joy-of-sailing-away">}}
 
 "The Joy of Sailing Away" is the first act of the suite opening the [Tableaux Électroniques](/music/tableaux_electroniques) album.</br>
 Start on this downtempo journey with the company of a flute, a violin, and some raucous beats. 
@@ -42,8 +47,3 @@ The melodic themes are derived from previous [Moods and Modes](/post/moods_and_m
 ## Available from:
 
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/1-the-joy-of-sailing-away">}}
-# {{<spotify link="https://spoti.fi/2Y4qpRq">}}
-# {{<itunes link="https://music.apple.com/us/album/from-dusk-till-dawn-single/1513809245">}}
-# {{<globe link="https://song.link/qzx4rvdz7vgjf">}}
-
-# {{<spotify_player_big uri="spotify:track:0i6xY7vKsqEygGEZ5dPyKU">}}

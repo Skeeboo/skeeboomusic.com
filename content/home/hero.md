@@ -31,6 +31,6 @@ label = '<i class="fas fa-envelope"></i> Monthly newsletter!'
 
 +++
 
-{{<figure src="/img/covers/Serendipity.jpg" width="320" link="https://mailchi.mp/add125f4e81c/serendipity" target="_blank">}}
-{{<bandcamp_small title="Serendipity" track="489316002" link="https://skeeboo.bandcamp.com/track/serendipity">}}
+{{<figure src="/img/covers/TheJoyOfSailingAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/the-joy-of-sailing-away" target="_blank">}}
+{{<bandcamp_small title="The Joy of Sailing Away" track="286262252" link="https://skeeboo.bandcamp.com/track/1-the-joy-of-sailing-away">}}
 
