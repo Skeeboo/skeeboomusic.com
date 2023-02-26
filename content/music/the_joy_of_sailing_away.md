@@ -42,8 +42,13 @@ Start on this downtempo journey with the company of a flute, a violin, and some 
 
 The melodic themes are derived from previous [Moods and Modes](/post/moods_and_modes) pieces: the flute theme comes from [Sail Away](/music/sail_away) while the happy violin middle theme comes from [For the Joy](/music/for_the_joy). Follow the links to hear the original versions.
 
-{{<figure src="/img/covers/TheJoyOfSailingAway.jpg" width="320" link="https://distrokid.com/hyperfollow/skeeboo/the-joy-of-sailing-away" target="_blank">}}
+{{< youtube 86ePiTb5xGA >}}
 
 ## Available from:
 
+{{<spotify_player_big uri="spotify:track:6KKN7JNArJVjuftcVaWQvM">}}
+
 {{<bandcamp_link link="https://skeeboo.bandcamp.com/track/1-the-joy-of-sailing-away">}}
+{{<spotify link="https://open.spotify.com/track/6KKN7JNArJVjuftcVaWQvM">}}
+{{<itunes link="https://music.apple.com/us/album/the-joy-of-sailing-away-single/1667178678">}}
+{{<globe link="https://song.link/JoyOfSailing">}}
